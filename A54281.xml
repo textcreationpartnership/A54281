@@ -1,0 +1,1303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Penotus palimeis, or, The alchymists enchiridion in two parts : the first containing excellent experienced chymical receipts and balsoms for healing and curing most diseases incident to the body of man &amp;c. : the second part containing the Practica mirabilis for the accomplishing and obtaining ... the white and red elixir ... : together with a small treatise ... written by that very ancient philosopher Arislaus, concerning the philosophers stone : to which second part is prefix'd an apologetic introduction, written by that very ancient philosopher Arislaus, concerning the philosophers stone : to which second part is prefix'd an apologetic introduction, written in answer to a scurrilous libel ... by D. Nicholaus Guibertus ... / the whole written in Latin by Bernardus Penotus a Portu Sanctae Mariae Aquitani ; and now faithfully englished and claused by B.P. Philalethes.</title>
+            <author>Penot, Bernard Georges, d. 1617?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54281</idno>
+            <idno type="STC">Wing P1430</idno>
+            <idno type="STC">ESTC R25029</idno>
+            <idno type="EEBO-CITATION">08723463</idno>
+            <idno type="OCLC">ocm 08723463</idno>
+            <idno type="VID">41668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54281)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41668)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1267:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Penotus palimeis, or, The alchymists enchiridion in two parts : the first containing excellent experienced chymical receipts and balsoms for healing and curing most diseases incident to the body of man &amp;c. : the second part containing the Practica mirabilis for the accomplishing and obtaining ... the white and red elixir ... : together with a small treatise ... written by that very ancient philosopher Arislaus, concerning the philosophers stone : to which second part is prefix'd an apologetic introduction, written by that very ancient philosopher Arislaus, concerning the philosophers stone : to which second part is prefix'd an apologetic introduction, written in answer to a scurrilous libel ... by D. Nicholaus Guibertus ... / the whole written in Latin by Bernardus Penotus a Portu Sanctae Mariae Aquitani ; and now faithfully englished and claused by B.P. Philalethes.</title>
+                  <author>Penot, Bernard Georges, d. 1617?</author>
+                  <author>Gratarolo, Guglielmo, 1516?-1568?</author>
+                  <author>Philalethes, B. P.</author>
+               </titleStmt>
+               <extent>[6], 20, [6], 61, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wyat,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [9] (4th grouping)</note>
+                  <note>Includes indexes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guibert, Nicolas, ca. 1547-ca. 1620.</term>
+               <term>Alchemy.</term>
+               <term>Materia medica --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41668:1" rendition="simple:additions"/>
+            <p>
+               <hi>Penotus</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR THE Alchymiſts Enchiridion. In Two Parts. The Firſt, Containing excellent experienced Chy<g ref="char:EOLhyphen"/>mical Receipts and Balſoms for healing and curing moſt Diſeaſes incident to the Body of Man, &amp;c. The Second Part, Containing the <hi>Practica Mirabilis</hi> for the accompliſhing and obtaining [from the Beginning to the End] the White and Red E<g ref="char:EOLhyphen"/>lixir, which whoſoever underſtands, need not read any other Book. As alſo ſeveral Chymical Axioms. Together with a ſmall Treatiſe by way of Dia<g ref="char:EOLhyphen"/>logue, written by that very ancient Philoſopher <hi>Ariſlaus,</hi> concerning the Philoſophers Stone. To which Second Part is prefix'd an Apologetick Introduction, written in Anſwer to a Scurrilous Libel, publiſhed in Latin in <hi>Germany</hi> by
+<hi>D. Ni<g ref="char:EOLhyphen"/>cholaus Guibertus,</hi> in which Anſwer is maintain'd both by Reaſon and Authority againſt the ſaid Libel, the poſſibility of making an Elixir for Tranſmutation of Lead, and all other imperfect Mettals into pure Gold and Silver.</p>
+            <p>The whole written in Latin long ſince by that Fa<g ref="char:EOLhyphen"/>mous Helvetian
+<hi>Bernardus Penotus a Portu Sanctae Mariae Aquitani,</hi> and now faithfully Engliſhed and Clauſed By <hi>B. P.</hi> Philalethes.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wyat</hi> at the
+<hi>Roſe</hi> in St. <hi>Paul</hi>'s Church-yard, 1692.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:41668:2"/>
+            <pb facs="tcp:41668:2"/>
+            <head>THE TRANSLATOR TO THE Intelligent READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> have here Engliſhed the Quinteſſence of a Book, which,
+[were I not to mention the Worth, Learn<g ref="char:EOLhyphen"/>ing and Fame of its Author] will (or I am much miſtaken) ſufficiently com<g ref="char:EOLhyphen"/>mend its ſelf.</p>
+            <p>A Book long ſince publiſhed in an Ele<g ref="char:EOLhyphen"/>gant Latin Style at
+<hi>Helvetia,</hi> and which has ever ſince its Publication been fa<g ref="char:EOLhyphen"/>mous for its Excellency amongſt Wiſe and Judicious Men.</p>
+            <p>The Author of which <hi>(Bernardus Penotus a Portu Sanctae Mariae Aquita<g ref="char:EOLhyphen"/>ni)</hi> I question not but very few Students<pb facs="tcp:41668:3"/>in this Noble Art are ignorant of: A Man who after Academick Education, ſpent the beſt part of his Life in Tra<g ref="char:EOLhyphen"/>velling, by which he not only learned the Customs of Nations, but alſo [he having the Happineſs of Converſe with ſeveral
+<hi>Adepti</hi>] Learned by Experience and other ways, many excellent and rare Receipts, and (which is the Secret of Secrets) the Knowledg of the great E<g ref="char:EOLhyphen"/>lixir, as may be underſtood by reading the Book.</p>
+            <p>I ſay no more of the Author, peruſe his Works diligently, and you'll taſt his Wiſdom and Parts.</p>
+            <p>I have divided this Treatiſe into two Parts, the firſt whereof contains Receits and Balſoms of excellent Virtues for preſervation of Life, and curing Di<g ref="char:EOLhyphen"/>ſeaſes, all which our Author ſays he experienced: (And ſure 'tis below a Man of Parts and Learning, much more a Man of Integrity and Honeſty, to lie, and commit them to Posterity.)</p>
+            <p>As for the Second Part, therein you have his <hi>Practica Mirabilis</hi> for the ac<g ref="char:EOLhyphen"/>compliſhing<pb facs="tcp:41668:3"/>both Elixirs, as alſo ſeveral Chymical Axioms on the ſame of no ſmall Value: Beſides a Dialogue com<g ref="char:EOLhyphen"/>poſed by <hi>Ariſlaus</hi> a very ancient Philo<g ref="char:EOLhyphen"/>ſopher betwixt the Maſter and Scholar concerning this Work.</p>
+            <p>Prefixed to which is an Apology in Anſwer to <hi>D. Guibertus</hi> his Scurrilous Libel, in which Apology is maintain'd the certainty and poſſibility of attain<g ref="char:EOLhyphen"/>ing both the White and Red Elixir for tranſmutation of all imperfect Metals into pure Gold and Silver, by Reaſon and Authority. An Apology well worth the reading.</p>
+            <p>I have divided the whole into Clauſes, for the Benefit of the Judicious and ob<g ref="char:EOLhyphen"/>ſervant Reader, and endeavoured the faithful Tranſlation of the whole; yet ſo as to ſuit it (as well as my mean Ca<g ref="char:EOLhyphen"/>pacity would permit) to our Engliſh I<g ref="char:EOLhyphen"/>diom.</p>
+            <p>But I remember I call'd it the Quin<g ref="char:EOLhyphen"/>teſſence: Yet let no one think I for that expect or hope for Scorn or Laughter. There may be a Quinteſſence extracted<pb facs="tcp:41668:4"/>from Gold, the purest of Metals.—I endeavoured to pleaſe my ſelf in pub<g ref="char:EOLhyphen"/>liſhing this part firſt, which, if kindly accepted, I may preſent the World with the whole. Mean while, Reader, be contented with this, as the moſt requi<g ref="char:EOLhyphen"/>ſite for thee, and refrain Praiſe and Cenſure till I ask them of thee,</p>
+            <closer>
+               <signed>who am Yours, <hi>B. P. Philalethes.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="authors_preface">
+            <pb facs="tcp:41668:4"/>
+            <head>The Authors Preface Dedicatory to the moſt Excellent (and adorn'd with Hea<g ref="char:EOLhyphen"/>venly Gifts) Gentleman Dr. <hi>Andrew Libavus,</hi> M. D. and Poet Laureat, <hi>Ber<g ref="char:EOLhyphen"/>nardus Penotus a Portu Sanctae Mariae A<g ref="char:EOLhyphen"/>quitani,</hi> wiſhes Supreme Felicity.</head>
+            <p>I Preſent you, moſt Learned Sir, with an Enchyri<g ref="char:EOLhyphen"/>dion of Balſoms and Receipts for ſeveral Diſtem<g ref="char:EOLhyphen"/>pers incident to Mankind, which I thought none more worthy of than your ſelf, Learned <hi>Liba<g ref="char:EOLhyphen"/>vus.</hi> The Beauty of Literature, in whom, as in a Mirrour, all Arts, Virtues and Diſcipline cohere; Famous throughout all <hi>Germany,</hi> both for the Goods of Fortune, and Endowments of Mind, for Noble<g ref="char:EOLhyphen"/>neſs of Birth, and Knowledg of all Arts and Sci<g ref="char:EOLhyphen"/>ences—But why ſhould I pretend to illuminate Splendid
+<hi>Phoebus</hi> by my Ruſh Light? Accept then of this my Labour, which if, you do, I perſwade my ſelf, that being by your Humanity, Fidelity and Fame, defended as 'twere by <hi>Miltiades</hi>'s Shield, I ſhall be Proof againſt the ſharpeſt Blows of my Ad<g ref="char:EOLhyphen"/>verſaries, and that every one who but underſtands you are mine and my Labours Defender, ſhall be, as I may ſay, charm'd to Silence.—But here it may be you may exclaim—What! Are you the Man that deſires my Defence? You he that thus interrupts me with your Studies, as you call them? Where was you born? What was your Original? To which I an<g ref="char:EOLhyphen"/>ſwer, moſt Learned <hi>Libavus,</hi> by applying what <hi>Virgil</hi> wrote of <hi>Ulyſſes</hi> to my own uſe. <pb facs="tcp:41668:5"/>
+               <q>Qui mores hominum multorum vidit &amp; urbes.</q>
+            </p>
+            <p>I was born in <hi>Aquitain,</hi> a moſt Noble Province of
+<hi>France;</hi> but leaving my Native Country, I tra<g ref="char:EOLhyphen"/>vel'd round
+<hi>Europe</hi> and the Continent Iſlands, ſpend<g ref="char:EOLhyphen"/>ing the greateſt part of my Life in Travels, to ob<g ref="char:EOLhyphen"/>tain the perfect Knowledge of the Chymical Science: I am now an Old Man of Threeſcore and Ten Years of Age, worn out by Years and Labours, after very many Dangers incident to Travellers, am at length arrived at <hi>Yverdunum</hi> [a ſtrong City in <hi>Helve<g ref="char:EOLhyphen"/>tia</hi>] where now I live. I am that <hi>Bernardus à portû Sanctae Mariae,</hi> whoſe Name you have been pleaſed to make ſo honourable a mention of ſo often in your Divine Writings.</p>
+            <p>Proceed then, moſt illuſtrious <hi>Libavus,</hi> and ac<g ref="char:EOLhyphen"/>cept of theſe my laſt Labours, rude and unpoliſh'd indeed, yet Monuments and eternal Witneſſes of the Reverence and Affection I have for you, and eſteem them as your Wiſdom thinks fit.</p>
+            <p>Farewel thou Beauty of Literature, the Ornament of all
+<hi>Germany</hi>—Only love him who is ready to ſerve you, which if you do, you will not only for ever oblige me [already indebted to you] for your extra<g ref="char:EOLhyphen"/>ordinary Kindneſſes, but alſo rouſe me up as one from Sleep to perform greater Enterprizes.</p>
+            <p>Farewel heartily once again my Pride and Safe<g ref="char:EOLhyphen"/>guard.</p>
+            <closer>
+               <dateline>
+                  <hi>Yverduni,</hi>
+                  <date>the Calends of <hi>January,</hi>
+1608.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:41668:5"/>
+            <head>
+               <hi>Penotus</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: OR THE Alchymiſts Enchiridion.</head>
+            <head>PART I.</head>
+            <div n="1" type="prescription">
+               <head>I. <hi>An excellent admirable Balſam of ſingular Vertues.</hi>
+               </head>
+               <p>℞ MIrrh, Aloes, Spicknard, San<g ref="char:EOLhyphen"/>guis Drachonis, Francum<g ref="char:EOLhyphen"/>cenſe, Mummia Opopanac, Bdelium, the Juice of the Balſamum Tree, the Juice or Gum of the Tree Agaſillis, of Sarcocolla, of Saffron, Ma<g ref="char:EOLhyphen"/>ſtick, Gum Arabick, Liquid Stirax, ana <g ref="char:dram">ʒ</g>ij, Lambd. Elect, Juice of a Beaver, or Succi Caſtorei, ana <g ref="char:dram">ʒ</g>ij, Musk <g ref="char:dram">ʒ</g>
+                  <abbr>ſs</abbr>, The<g ref="char:EOLhyphen"/>rebinthin the weight of altogether, Pul<g ref="char:EOLhyphen"/>verize<pb n="2" facs="tcp:41668:6"/>them, and mix them well with the Therebinthin; put the whole Compoſi<g ref="char:EOLhyphen"/>tion into an Alimbeck, and Diſtil Philo<g ref="char:EOLhyphen"/>ſophically: Then take out the Diſtill'd Liquor, and lay it up carefully for uſe.</p>
+               <div type="virtues">
+                  <head>VERT<g ref="char:V">Ʋ</g>ES.</head>
+                  <p>If Dead Bodies be anointed therewith, they will not Putriſie. If with this Balſom you would ſtrengthen weak Bodies, mix it with Roſe Water, and anoint the Belly and Reins therewith. If you put a little of this Balſam upon a Linen Cloth, and being a little warm before the Fire, ap<g ref="char:EOLhyphen"/>ply it to the Back-bone of the Afflicted with an Ague, there letting it remain for ſome Hours; it takes away the rigor thereof: Yea, it wonderfully relieves the Quartan Ague. It helps Swoundings, if the Spine of the Back be anointed there<g ref="char:EOLhyphen"/>with. A little of this being put under the Tongue of a Perſon Speechleſs, it Re<g ref="char:EOLhyphen"/>ſtores it; and count it no mean Remedy, if Neceſſity compel thee to uſe it in Suffo<g ref="char:EOLhyphen"/>cations of the Womb, Falling Sickneſſes, and many other Diſeaſes, Drinking Three Drops of this in a Glaſs of Odoriferous Wine. It wonderfully comforts the Heart and Animal Spirits. Mixt with Oyl of<pb n="3" facs="tcp:41668:6"/>Roſes, and Bathing the Members and Backbone, is very good to expel Melan<g ref="char:EOLhyphen"/>choly, and trouble of Mind, helping de<g ref="char:EOLhyphen"/>cayed Strength, and good in Hectick Fe<g ref="char:EOLhyphen"/>vers. It has many other wonderful Proper<g ref="char:EOLhyphen"/>ties with it; for the Spine of the Back-bone being anointed therewith, it has ſtrange Operations, comforting [by the per<g ref="char:EOLhyphen"/>miſſion of Almighty God,] the Reins and parts thereabouts. It procures long Life, ſo powerful is this Balſom, pre<g ref="char:EOLhyphen"/>ſerving the Cauſes thereof. The
+<note n="†" place="margin">N.B.</note> Nuca is the Principium of the Nerves and Bones, and is generated from the Brain, therefore by Bathing that part, you will comfort the Spiritual Subſtance, and all the Bones; be<g ref="char:EOLhyphen"/>ing a Remedy againſt the Palſie: Com<g ref="char:EOLhyphen"/>forting and being good againſt the Trem<g ref="char:EOLhyphen"/>bling of the Heart and Looſeneſs. [<hi>Et eſt omnium Medicamentorum in celeri cordis comfortatione.</hi>]</p>
+               </div>
+            </div>
+            <div n="2" type="prescription">
+               <head>℞ II. <hi>An Artificial Balſam for all ſorts of Wounds and Swellings, Gun-ſhot not excepted.</hi>
+               </head>
+               <p>℞ Oyl Olive, Flax, ana ℥iv, Viridis Aeris, or Green Braſs <g ref="char:dram">ʒ</g>i, Roman Vitri<g ref="char:EOLhyphen"/>ol <g ref="char:dram">ʒ</g>
+                  <abbr>ſs</abbr>; put the Powders into the Oyl, <pb n="4" facs="tcp:41668:7"/>and upon warm Embers Diſſolve them: This done, take them from the Fire: Then add to it clear Therebinthin. Let it Ferment together for the ſpace of Eight Days in a warm place. Now when you would uſe it, apply it warm to the Wound, and Bind it up. For a Gun<g ref="char:EOLhyphen"/>ſhot,
+<hi>&amp;c.</hi> dip a Tent in this Balſam, and ſtop the Wound therewith, and 'twill an<g ref="char:EOLhyphen"/>ſwer Expectation.</p>
+            </div>
+            <div n="3" type="prescription">
+               <head>℞ III. <hi>An Experienced Balſam to Heal all Deſperate Wounds in the ſpace of Twenty Four Hours time; a very great Secret.</hi>
+               </head>
+               <p>Gather a ſufficient quantity of that Red Herb ſpringing out of the Ground about the latter end of <hi>September,</hi> call'd Wood-bine, on which the Hony-ſuckle grows, [to be had in Woods,] put it into a Cucurbit,
+[<hi>ſive Botiam,</hi>] then ſtop the Mouth of it very cloſe, that the Virtue of it may not reſpire; then put it in warm Horſe-Dung for the ſpace of Eight Days, afterwards in <hi>Baln. Mariae</hi> extract its Water. Which being come over, put back again upon its Faeces. And then as before, put it again in Horſe-Dung for<pb n="5" facs="tcp:41668:7"/>Twenty Four Hours ſpace; which being done, Diſtil again; then will come over a Water and Oyl, which ſeparate <hi>per Bal. Mar.</hi> the Water appears firſt, the Oyl lying at the bottom of the Veſſel. This is that admirable Balſam whoſe Vertues are ſo much extoll'd in our Chymical An<g ref="char:EOLhyphen"/>tidotes, with many others.</p>
+            </div>
+            <div n="4" type="prescription">
+               <head>℞ IV. <hi>To cure the Frenſie and Deli<g ref="char:EOLhyphen"/>rium.</hi>
+               </head>
+               <p>℞ Musk gr. 12, Camphir gr. 20, of Red Roſe Water, impregnated with the tin<g ref="char:EOLhyphen"/>cture of Sandal, ℥xv, mix well, ſhave the Crown of the Diſeaſed's Head, and dipping a Linen Cloth double into this Liquor, apply it warm: When it has been on ſo long as the Moiſtneſs is dryed up out of the Linen, dip it in the aforeſaid Com<g ref="char:EOLhyphen"/>poſition again, and continue the Applica<g ref="char:EOLhyphen"/>tion for the ſpace of Twenty Four Hours. Afterwards having Slept ſome time, you will perceive the Afflicted to be marvel<g ref="char:EOLhyphen"/>louſly compoſed, unleſs the Subſtance of the Brain be corrupt, then you muſt apply oftener with very great care: It alſo cures the Palpitation of the Heart if ap<g ref="char:EOLhyphen"/>plyed thereto.</p>
+            </div>
+            <div n="5" type="prescription">
+               <pb n="6" facs="tcp:41668:8"/>
+               <head>℞ V. <hi>For Fooliſhneſs, occaſion'd by want of Sleep.</hi>
+               </head>
+               <p>℞ Laudanum prepared according to our Deſcription, gr. 4 or
+6, Oyl of Musk Nuts, 3 Drops, put a little of this on a Linen Tent up the Noſtrils. It wonder<g ref="char:EOLhyphen"/>fully provokes Reſt. If you think the Sick Perſon ſleeps overmuch, take out the Tent.</p>
+            </div>
+            <div n="6" type="prescription">
+               <head>℞ VI. <hi>For Convulſion Fits.</hi>
+               </head>
+               <p>℞ Oyl of Amber ℥<abbr>ſs</abbr>, Mucilage of Bryony q
+5, to the conſiſtency of an Oint<g ref="char:EOLhyphen"/>ment, Oyl of Clove Gilly-flowers, 6 Drops, anoint the Place afflicted about the Roots of the Nerves, then 'tis done.—If the Fits are not mitigated at the firſt Anoint<g ref="char:EOLhyphen"/>ing, Repeat again, and wrap the Afflicted Members in the Hide of a new kill'd Weather, and you'l have no need to take care for any other Remedy.</p>
+            </div>
+            <div n="7" type="prescription">
+               <head>℞ VII. <hi>For the Cramp or Contraction of the Sinews.</hi>
+               </head>
+               <p>℞ Diſtill'd Oil of Cammomil <g ref="char:dram">ʒ</g>i, The<g ref="char:EOLhyphen"/>rebin of Amber, ana ℥<abbr>ſs</abbr>, anoint the<pb n="7" facs="tcp:41668:8"/>Roots of the Nerves on the contrary ſides, and 'twill have good Succeſs.</p>
+            </div>
+            <div n="8" type="prescription">
+               <head>℞ VIII. <hi>An excellent Remedy for Itch<g ref="char:EOLhyphen"/>ing Pimples, Blemiſhes and Wrinkles in the Face.</hi>
+               </head>
+               <p>℞ Moſt clear Fountain or River Wa<g ref="char:EOLhyphen"/>ter, <abbr>lb</abbr>5, the Seeds of White Poppy well bruiſed <abbr>lb</abbr>
+                  <abbr>ſs</abbr>, make an Emulſion of it in a Glaſs Veſſel; then in a great Glaſs, put ℥i of Mercury Sublimate, very often Cleanſed or Waſhed, with the White of one Egg well ſhaken together with all ones might for the ſpace of an Hour; then add to it one Spoonful of your E<g ref="char:EOLhyphen"/>mulſion of White Poppy-Seeds; then ſhake it again with all your might, for one Hour more; then Two Spoonfuls, and ſhake for Two Hours; then Three, Four or Five Spoonfuls, and ſhake it as is aforeſaid for the ſpace of Three or Four Hours, till a White Pin or Needle lying in it Twenty Four Hours is not tinged: Then add of very white Zaccharum and Borax very finely powder'd, ana ℥i, then ſhake as a<g ref="char:EOLhyphen"/>foreſaid again for Two Hours. By often waſhing the Face therewith, it makes it of an incomparable White and Red Colour, it does no hurt to the Skin, as other Mer<g ref="char:EOLhyphen"/>curial<pb n="8" facs="tcp:41668:9"/>Waters do; but it Cleanſes and Heals Burning Ulcers, Dries up Boils and Running Soars, and very friendly cures them. This is a Secret not raſhly to be Reveal'd.</p>
+            </div>
+            <div n="9" type="prescription">
+               <head>℞ IX. <hi>A moſt approved Remedy for in<g ref="char:EOLhyphen"/>flamed Eyes, both Running and Dry, as alſo for Eyes that are Blood-ſhot, and for Itching of the Eye-Lids; a ſingular Remedy.</hi>
+               </head>
+               <p>℞ Praeparat. of Tutty, ℥i<abbr>ſs</abbr>, Cam<g ref="char:EOLhyphen"/>phir <g ref="char:dram">ʒ</g>i, as much of Red Roſe-water, of GreenBraſs, gr. 12, well rubb'd with Cam<g ref="char:EOLhyphen"/>phire in a Mortar, but the Braſs by it ſelf. Let all be brought to a Powder; then ℞ <hi>May</hi> Butter ℥i, let it Boil ſome time in the Roſe-water: Then taking it from the Fire, firſt put in the Tutty and Cam<g ref="char:EOLhyphen"/>phire, then the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Viride or Green Braſs; mix them w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and lay it up in a Glaſſe
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> an Ointment of it, and pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon a ſmall Piece of Silk
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt the inner ſides of the Eye
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut eſpecially the Corners, and you'l ſoon be Cured.</p>
+            </div>
+            <div n="10" type="prescription">
+               <pb n="9" facs="tcp:41668:9"/>
+               <head>℞ X. <hi>Another moſt Noble Medicine for the ſame.</hi>
+               </head>
+               <p>℞ the Diſtill'd Water of Whites of of Eggs,
+<abbr>lb</abbr>2, Aqua Faenicula Enfraſia, Belendine Valerian, ana ℥ii, Red Roſes, ℥iij, Water of Human Blood ℥i, Tutty well prepared and ground, Camphir, Roach Alome, ana ℥<abbr>ſs</abbr>, Red Coral, Pearls, ana <g ref="char:dram">ʒ</g>i, mix and circulate for a Month, often well ſhaking them together. Drop a little of this into either Dim or Inflamed, or Run<g ref="char:EOLhyphen"/>ning and Diſordered Eyes, or thoſe having thin Skins growing over them. If this Remedy be continued, it will certainly cure them.</p>
+            </div>
+            <div n="11" type="prescription">
+               <head>℞ XI. <hi>To heal a Wound in a ſmall ſpace.</hi>
+               </head>
+               <p>℞ Well Purged and Clarified Hony <abbr>lb</abbr>i, Juice of Pillitary of the Wall, qs, Incor<g ref="char:EOLhyphen"/>porate and make an Ointment, with which anoint, and preſently bind up; it cures ſoon.</p>
+            </div>
+            <div n="12" type="prescription">
+               <head>℞ XII. <hi>A Secret to cure the Dropſie.</hi>
+               </head>
+               <p>Diſtil Oil of Salt by a Retort, feed Flowers of Sulpher with this Oyl, till it<pb n="10" facs="tcp:41668:10"/>be of the conſiſtency of a Pultis; Diſtil this through a Retort, and it will come into the Receiver like Milk. This is a great Secret for the Dropſie: Its good alſo againſt Poiſons and Ulcers of the Lungs.</p>
+            </div>
+            <div n="13" type="prescription">
+               <head>℞ XIII. <hi>A long experienced Emplaſter for Old and Stinking <g ref="char:V">Ʋ</g>lcers and Fi<g ref="char:EOLhyphen"/>ſtoloes, ſeparating the corrupt from the incorrupt.</hi>
+               </head>
+               <p>℞ Common Liquid Pitch <abbr>lb</abbr>2, unſalt<g ref="char:EOLhyphen"/>ed Butter
+<abbr>lb</abbr>i, of the beſt Hony ℥vj, The<g ref="char:EOLhyphen"/>rebinthin ℥iij, Sheeps-Fat or Greaſe ℥ iiij, Roſin ℥ij<abbr>ſs</abbr>, let all melt over a gentle Fire, and then ſtrew in the following Pow<g ref="char:EOLhyphen"/>der. ℞ Aloes ℥iij, Flowers of Sulpher ℥ij<abbr>ſs</abbr>, Francanſcenſe ℥ij, Maſtick ℥i<abbr>ſs</abbr>, and when all is melted, add common Salt Decripitated Mj, Allum ℥ij<abbr>ſs</abbr>, white Vi<g ref="char:EOLhyphen"/>triol ℥ii, Calx vive ℥i<abbr>ſs</abbr>, theſe being all in fine Powder, mix well together, and with the former Powders, Reduce the whole Compoſition into an Emplaiſter. Now if ſo be it happens to be too Dry, by adding Liquid Pitch to it, it will become more Liquid. Apply it to the Ulcer, <hi>&amp;c.</hi> On which let it remain Twenty Four<pb n="11" facs="tcp:41668:10"/>Hours, wipe it off, and apply it again. It has been often experienced.</p>
+            </div>
+            <div n="14" type="prescription">
+               <head>℞ XIV. <hi>An other Emplaſter for all bitter Maladies and Tumours.</hi>
+               </head>
+               <p>℞ Black Pitch, Colophoni, Roſin of Pine, Wax, ana ℥iij, Bdellium, the Juice of the Herb All-heal, ana ℥ij, Opium ℥ij, Saffron ℥ij, Stiracis Calamitae, Camphire ana <g ref="char:dram">ʒ</g>ij. Sperma Caeti ℥vi, Sanguis Dra<g ref="char:EOLhyphen"/>chonis, Mercury praecipitate, ana ℥i<abbr>ſs</abbr>, Crocus Martis ℥<abbr>ſs</abbr>, Gum Elinus &amp; Henba<g ref="char:EOLhyphen"/>ne, ana ℥i<abbr>ſs</abbr>, Diſſolve the Gums in Vine<g ref="char:EOLhyphen"/>gar; then diſſolve Pix Colophoni, Roſin of Therebinthi together. Then add Ma<g ref="char:EOLhyphen"/>ſtick and Mhirr; make an Emplaſter, and make uſe of it in all Tumours and Mala<g ref="char:EOLhyphen"/>dies whatſoever. I have many other Em<g ref="char:EOLhyphen"/>plaſters by me; but theſe are the moſt excellent.</p>
+            </div>
+            <div n="15" type="prescription">
+               <head>℞ XV. <hi>An admirable preparation of Camphire to cure Canker'd and Corro<g ref="char:EOLhyphen"/>ſive <g ref="char:V">Ʋ</g>lcers; containing many other rare Properties.</hi>
+               </head>
+               <p>℞ Camphire, Virgins Wax, White Lead, Oil of Lillies ana, bring all into<pb n="12" facs="tcp:41668:11"/>Crumbs; then put the Oyl into a little Kettle over the Fire, which being hot, put in the Virgins Wax, and which being Melted, put in the purified Camphire, by ſtirring it gradually, afterwards the Ceruſe, caſting it in by little and little, till the whole is incorporated; then take it off the Fire, and when cold, put upon this Compoſition
+<abbr>lb</abbr>i, of thrice Rectified Spi<g ref="char:EOLhyphen"/>rit of Wine; then mix all very well toge<g ref="char:EOLhyphen"/>ther, in a Glazen Veſſel, till [without the help of the Fire,] the whole becomes very Red. Put then this Ointment in a Glaſs Alimbeck, and lute very cloſe, Bu<g ref="char:EOLhyphen"/>ry it for Eight Days in Horſe-Dung, Di<g ref="char:EOLhyphen"/>ſtil with Aſhes on a ſlow Fire. The Wa<g ref="char:EOLhyphen"/>ter being come over, remit it back on the Faeces again. Repeat this for Eight times at leaſt, <hi>N. B.</hi> that the Camphire will be Sublim'd; but his Wings ſhould be clipped, and be mingled with the reſt. Break the Veſſel, and take out the matter which you ſhall find at the Bottom in a Metal-like form; ſtamp it to Crumbs; then incorporate and keep it for uſe, [cloſe in pixide;] its Virtues follow.</p>
+            </div>
+            <div n="16" type="prescription">
+               <head>℞ XVI. <hi>To cure the Canker.</hi>
+               </head>
+               <p>℞ Both Plantains Mj, make a Decocti<g ref="char:EOLhyphen"/>on,<pb n="13" facs="tcp:41668:11"/>with which waſh the Canker or Wound; afterwards dry it with a clean Linen Rag; then ℞ the aforementioned Ointment, and ſpread ſome of it on a Linnen Cloth, <hi>&amp;c.</hi> and apply it to the Wound or Canker; ſo that the aforemen<g ref="char:EOLhyphen"/>tion'd Ointment may cover the whole Wound, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="17" type="prescription">
+               <head>℞ XVII. <hi>For a Diſſentery and deſperate Looſeneſs; a ſingular Remedy.</hi>
+               </head>
+               <p>℞ the Bark of Guajacum well bruiſed, ℥ij, boil them in ſo much Water as may a little more than cover them; to which put of Red Roſes, Balanſtior and Plan<g ref="char:EOLhyphen"/>tain <g ref="char:dram">ʒ</g>ij: Let them boil together for an Hour; then take them from the Fire, and ſtrain them through a Linen Cloth; to which add Powder of Rhubarb <g ref="char:dram">ʒ</g>ij, of the principal Preparation <g ref="char:dram">ʒ</g>iij, let it be Drunk by the Diſeaſed.</p>
+            </div>
+            <div n="18" type="prescription">
+               <head>℞ XVIII. <hi>One only excellent Remedy for the Plague.</hi>
+               </head>
+               <p>℞ Of Thrice Rectified Aqua Vitae, one Meaſure, (or Spoonful I ſuppoſe) the very beſt <hi>Venice</hi> Treakle ℥vi, the choiceſt Mirrh ℥ij, the Roots of Butter-Bur. ℥iij,
+<pb n="14" facs="tcp:41668:12"/>Sperma Caeti, Terrae Sigillatae, ana ℥j, great Celandine ℥i, Dictam albi pimpin. Garden Valerian, ana <g ref="char:dram">ʒ</g>ij, Camphire <g ref="char:dram">ʒ</g>j, all theſe being cut ſmall and Bruiſed, mix them together; afterwards ſoak them in good White-wine; then being Dryed up and Bruiſed, put them into a Glaſs Re<g ref="char:EOLhyphen"/>tort well Luted with a great Receiver; cauſe Diſtillation by an open Fire; but gently at firſt, and ſo on by degrees; in doing which, you will ſee white Fumes come over into the Receiver with great force; therefore you muſt take great care, leſt your Glaſs breaks. Diſtillation being over, you'll find a Black Oyl and Water, which Oyl you muſt ſeparate from the a<g ref="char:EOLhyphen"/>foreſaid Water; put the VVater into a little Cucurbit, and diſtil twice or thrice in Aſhes, of which take one part to two parts of the Reſerved Oyl aforementio<g ref="char:EOLhyphen"/>ned. If you have <abbr>lb</abbr>4, of the above named Compoſition, mingle it with <abbr>lb</abbr>2, of the Tartarous Water, and leave the Liquor on its Faeces.</p>
+               <p>Uſe is, That every Twenty Four Hours, one <g ref="char:dram">ʒ</g> of this be Supp'd up in a Glaſs of Odorifick Wine, and let the Diſtemper'd Sweat Two Hours after it (at leaſt) and abſtain from Food ſome few Hours after and before. It's a great Preſervative a<g ref="char:EOLhyphen"/>gainſt<pb n="15" facs="tcp:41668:12"/>this miſerable Mortality, for if the Infected do but take one Spoonful of this in Three of White Wine, as aforeſaid, and Sweat Three Hours after, abſtaining Three Hours before, and Three or Four after, it will cure him, [<hi>Deo Juvante.</hi>] If the Diſeaſed be very much infected, perhaps it may not operate ſo effectually the firſt time, as to Radically Cure; then Reiterate. But if by the Inflamma<g ref="char:EOLhyphen"/>tion of the Liver [Prunella gigneretur,] then ℞ Cancror. Fluvialum Vivorum, of the greater Houſe-Leek j, Sengreen M j, Bruiſe all well together, and mix with a few Spoonfuls of Vinegar of Roſes, ſqueeze out the Juice of them altogether through a Linen-Cloth. Exhibit of this ſometimes a Spoonful a Day, apply it warm to the Head and Forehead by warm Cloaths. If the Party be broke out in Botches, apply an Emplaſter made of the Juyce of All<g ref="char:EOLhyphen"/>heal, with Oyl Laterino. This, if ſoon applied, will draw out the Poiſon.</p>
+               <p>You have here a Divine Water, heal<g ref="char:EOLhyphen"/>ing all Obſtructions, and effecting ſuch Wonders as I ceaſe to ſpeak of; 'tis your Duty to honour God, and reſign your ſelf to him.</p>
+            </div>
+            <div n="19" type="prescription">
+               <pb n="16" facs="tcp:41668:13"/>
+               <head>℞ XIX. <hi>For all Imposthumes, Pluriſies, or any ſuch like Diſtempers, to break them ſoon.</hi>
+               </head>
+               <p>℞ Sorrel [ſub cineribus coctae] Mij. Beam-ſomer ℥iij, Fat Figs Niiij, Rue <g ref="char:dram">ʒ</g>ij, of precipitated and dulcified—by waſh<g ref="char:EOLhyphen"/>ings ℈ij, make an Emplaſter.</p>
+            </div>
+            <div n="20" type="prescription">
+               <head>℞ XX. <hi>For the Shingles <hi>[&amp; Formicas]</hi> a moſt experienc'd Remedy.</hi>
+               </head>
+               <p>℞ Rock Allom, (Flowers) of Sulphur, Bole Armoniack ſubtilly ſearched, ana ℥ij, common Salt p i, the Herb Celen<g ref="char:EOLhyphen"/>dine freſh and new gathered, ſhred well Miii, to which put of good potable White-wine ſo much as will over-top it 4 or 5 Fingers Breadth; put all into an Earthen Pot with a narrow Mouth, and when in warm water the matter ſhall boil, beſprinkle the affected place with the Dew thereof for 2 hours ſpace twice a Day; which Dew being dried in, anoint the ſaid Shingles with Oyl of Eggs. It likewiſe cures St. <hi>Anthonies</hi> Fire.</p>
+            </div>
+            <div n="21" type="prescription">
+               <pb n="17" facs="tcp:41668:13"/>
+               <head>℞ XXI. <hi>
+                     <hi>Aqua Mirabilis</hi> for curing and expelling the Stone and Gravel in the Reins.</hi>
+               </head>
+               <p>℞ the Roots of Marſh-mallows well cleanſed in White-wine ℥vj, the Roots of great Burr and of Graſs ana ℥iiij, the Roots of the Herb Folefoot, or wild Spicknard, of Parſley, Valerian and Foe<g ref="char:EOLhyphen"/>niculi all well bruiſed ana ℥ij: of the Herb Capilli Veneris, Saxifrage, Pimpin, Virgae Aurae, and Betony ana Miiij, of the Seed of Gentian, the great Burr, Cardus Benedictus, of the Mountain Oſier of Nut Kernels, Medlars and Peaches ana ℥j, Grom-well ℥ij, Lapidis Lincii Judaici ana ℥j, the Preparation of Goats Blood ℥ij<abbr>ſs</abbr>, Crocus <g ref="char:dram">ʒ</g>ij, Venetian Therebin, bruiſe them all together, and with the There<g ref="char:EOLhyphen"/>binthin mingle them in White-wine <abbr>lb</abbr>iiij, mix all well together, and let them ſtand 24 Hours; then diſtil them by Bal. Mari<g ref="char:EOLhyphen"/>ae. Let the Afflicted drink of this VVater ℥ij, and after he has drunk that, immedi<g ref="char:EOLhyphen"/>ately let him drink ℥iiij of VVhite-wine full three Hours before he eats.</p>
+            </div>
+            <div n="22" type="prescription">
+               <head>℞ XXII. <hi>For an inveterate Megrim.</hi>
+               </head>
+               <p>℞ Aloetick Balſam <g ref="char:dram">ʒ</g>iij, Magiſterii Per<g ref="char:EOLhyphen"/>alrum
+<pb n="18" facs="tcp:41668:14"/>gr. 12. Salt of Wormwood <g ref="char:dram">ʒ</g>i. with Syrup of Betony q 5. Bring it into a Maſs, in a Glaſs accurately cloſed: Let the Diſeaſed for a Month together take every Morning one Pill made of this, it is an excellent Purger of the Belly and Midriff; Extracting the obnoxious Hu<g ref="char:EOLhyphen"/>mour or Matter from the Brain.</p>
+            </div>
+            <div n="23" type="prescription">
+               <head>℞ XXIII. <hi>For <g ref="char:V">Ʋ</g>lcers in the Lights.</hi>
+               </head>
+               <p>℞ Flowers of Sulphur ſublimed to whiteneſs, q. u. with Oyl of Zacchari [known but to a few] mix well this Oyl of Zacchari with Pectoral Waters, very well diſtilled. It has wonderful Vertues. It takes away the Cauſes of Coughs.</p>
+            </div>
+            <div n="24" type="prescription">
+               <head>℞ XXIV. <hi>For Suffocations of the Womb.</hi>
+               </head>
+               <p>℞ Extract of Crocus <g ref="char:dram">ʒ</g>j, Caſtor ℈ij, 6 Drops of Oyl of Angelica mix: The Doſe ℈i or ii. This, if taken when an Ague is approaching, cures it. If at the approach of each term a meaſure of this be taken, the Diſeaſe will not return.</p>
+            </div>
+            <div n="25" type="prescription">
+               <pb n="19" facs="tcp:41668:14"/>
+               <head>℞ XXV. <hi>CATHOLIC<g ref="char:V">Ʋ</g>M CATHAR<g ref="char:EOLhyphen"/>TIC<g ref="char:V">Ʋ</g>M Minerale.</hi>
+               </head>
+               <p>℞ Mineral Stilium or Antimony in Powder (very ſmall) being mingled well with Oximel Simplex, ſo that it's Metallick Form be quite loſt; which done, pour on it Vinegar. Let it remain in a Veſſel in a warm place for a Months time, afterwards diſtill the Vinegar in a gentle Heat, and it will remain at the Bottom of the Conſiſtency of a Pultis, which muſt be diſtilled by a mighty ſtrong Fire, and there will aſcend a red Oyl, ſweeter than Zaccharum, which uſe in purging Bodies. Doſe, is according to the Conſtitution of the Perſon to take it; for all are not ſtrong alike; there<g ref="char:EOLhyphen"/>fore a certain Doſe cannot be preſcribed; yet I have given from <g ref="char:dram">ʒ</g>
+                  <abbr>ſs</abbr> to <g ref="char:dram">ʒ</g>j, with ſome other Syrup. It draws the Hu<g ref="char:EOLhyphen"/>mours together and evacuates them.</p>
+               <p>
+                  <hi>N. B.</hi> This is that that is now (with ſome) kept ſo ſecret, and ſo much made uſe of.</p>
+            </div>
+            <div n="26" type="prescription">
+               <head>℞ XXVI. <hi>For the Epilypſie.</hi>
+               </head>
+               <p>℞ Exſiccated Vitriol <abbr>lb</abbr>j, of Stibium
+<pb n="20" facs="tcp:41668:15"/>
+                  <abbr>lb</abbr>
+                  <abbr>ſs</abbr>, bring them into a very fine Pow<g ref="char:EOLhyphen"/>der, reduce to an Oyl, like Oyl of Vitri<g ref="char:EOLhyphen"/>ol, and this [by the Sun] diſtil often. Rectifie alſo [<hi>ſuper calvariam contuſam ali<g ref="char:EOLhyphen"/>cujus ſuſpenſi.</hi>] Doſe, from <g ref="char:dram">ʒ</g>
+                  <abbr>ſs</abbr> to <g ref="char:dram">ʒ</g>i, in any Syrup, as of Piony, Bethony, <hi>&amp;c.</hi> and count it not a mean Remedy.</p>
+            </div>
+            <trailer>The End of the Firſt Part.</trailer>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:41668:15"/>
+            <head>
+               <hi>Penotus</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: OR THE Alchymiſts Enchiridion.</head>
+            <head>PART II.</head>
+            <div type="dedication">
+               <pb facs="tcp:41668:16"/>
+               <pb facs="tcp:41668:16"/>
+               <head>The Epiſtle Dedicatory.</head>
+               <head type="sub">To the moſt Learned and Famous <hi>D. Joachimo Tanchio,</hi> Dr. of Phy<g ref="char:EOLhyphen"/>ſick and Philoſophy, and Profeſſor of the ſame at the Univerſity of <hi>Lipzick, Bernardus Penotus a Portu Sanctae Mariae Aquitain</hi> wiſhes long Health and Happineſs.</head>
+               <p>VEnerable Antiquity (moſt Learned <hi>Tanchius</hi>) had ſo honorable an Eſtimation for the firſt Inventers of Arts and Sciences, that ſome they Cano<g ref="char:EOLhyphen"/>niz'd as Gods: To the Honours of o<g ref="char:EOLhyphen"/>thers they erected Statues as a perpetual Memorandum of their Great Ingenuity. Nor undeſervedly. For whereas our great Grandfather <hi>Adam</hi> by his Sin was reduc'd from the moſt happy to the most miſerable Condition, the Omnipotent himſelf thundering againſt him and all Mankind this Reſolution, viz. <hi>In the Sweat of thy Face ſhalt thou eat thy<pb facs="tcp:41668:17"/>Bread.</hi> The Inventions of Arts and Diſciplines were then very neceſſary. <hi>Quibus iſti morbo &amp; malo afferetur.</hi> Therefore it may ſeem one great Reaſon, (if not the only) why the Fathers be<g ref="char:EOLhyphen"/>fore the Flood lived ſo long, was, Be<g ref="char:EOLhyphen"/>cauſe they might fully underſtand and learn Arts and Sciences. Now if ſuch great Honours were conferred on them, who being greatly help'd by Longevity, found out Arts and Sciences; deſerve not they Commendation, who not having the advantage of ſuch long Life, raiſe them (and that with augmentation too) from the Dead to Life again? (For what do they otherwiſe, who restore lost Arts to Light again?) 'Twas great indeed to find out Arts, but very great to reſtore and augment them. I ſhall mention only the Spagyrick; and who knows not that that ſo <g ref="char:V">Ʋ</g>ſeful, ſo Divine, and ſo Neceſſary an Art has for many Ages lain, as 'twere (almoſt) in a dead Sleep? And who but a blind Man cannot perceive it now reſtored to its former, nay, far greater Glory? But by whom I pray? If I, learned <hi>Tanchius,</hi> 
+                  <pb facs="tcp:41668:17"/>mention you amongſt it's particular Fa<g ref="char:EOLhyphen"/>vourites, who'l contradict me? Deſer<g ref="char:EOLhyphen"/>vedly then do Learned Men reverence you. For my part, I'm bound to it for two no little Reaſons. The Firſt, For the ſame Reaſon all wiſe Men do,
+<hi>viz.</hi> For your great Parts and Learning. The other, Becauſe you were pleaſed to count my Name worthy the mention in your Book <hi>De Lapide Philoſopho<g ref="char:EOLhyphen"/>rum.</hi> I ſhould be ungrateful then, were I not, in token of the Eſtimation I I have for your ſelf, to preſent you with part of my Labours. Accept then this following Dialogue concerning the true matter of the Great Elixir, written by one <hi>Ariſlaus</hi> a very old Philoſo<g ref="char:EOLhyphen"/>pher, as alſo its Preparation, far more precious than common Gold or Silver. This is the <hi>Aurum Vivum</hi> of the Philoſophers, vivifying other Dead Bodies; yet the matter of this our Stone is but one Ingredient, containing in its ſelf the Power of all forcible Waters, [as appears more plainly in the Apologe<g ref="char:EOLhyphen"/>tic Introduction] containing whatſo<g ref="char:EOLhyphen"/>ever is neceſſary for Nature in, from,<pb facs="tcp:41668:18"/>and by its ſelf, as in the Dialogue and following Pages you may ſee; which Dialogue I devote, Dedicate and Pre<g ref="char:EOLhyphen"/>ſent to your ſelf,
+<hi>ut ſit Antidorum illi<g ref="char:EOLhyphen"/>us quod ad te accepi,</hi> &amp;c.</p>
+               <closer>
+                  <salute>Learned Sir, Vale.</salute>
+               </closer>
+            </div>
+            <div type="apology">
+               <pb facs="tcp:41668:18"/>
+               <head>
+                  <hi>An Apologetick Introduction of <hi>Ber<g ref="char:EOLhyphen"/>nardi Penoti a Portu S. Mariae Aq.</hi> in which is Evinced both by Reaſon and Authority the Error and Opinion of <hi>Dr. Nicholas Guibertus Lotha<g ref="char:EOLhyphen"/>ringi,</hi> concerning Alchymy, <hi>&amp;c.</hi>
+                  </hi>
+               </head>
+               <p n="1">1. NO Art or Science is ſo Sacred, but has Haters and Contradicters of all degrees.</p>
+               <p n="2">2. Amongſt which Arts, this of Chy<g ref="char:EOLhyphen"/>miſtry need not aſſume the loweſt place, than which Theology excepted, there is none more worthy.</p>
+               <p n="3">3. This is the Captain of Philoſophy, by which Secrets of Nature, <hi>&amp;c.</hi> may be pryed into, and Arcana's eaſily embra<g ref="char:EOLhyphen"/>ced.</p>
+               <p n="4">4. This Art has been ſought after by Emperors, Kings and Princes; nay, ma<g ref="char:EOLhyphen"/>ny of all ſorts of Men, Good Men, Wiſe Men, and Learned Men, have laboured after it.</p>
+               <p n="5">
+                  <pb n="2" facs="tcp:41668:19"/>5. All affirming it to be an honeſt plea<g ref="char:EOLhyphen"/>ſure, an Exerciſe becoming the greateſt Men on Earth.</p>
+               <p n="6">6. Yet ſince in this our Iron Age of Impiety,
+<hi>&amp;c.</hi> there being ſuch a nume<g ref="char:EOLhyphen"/>rous Parcel of Impoſtors and Sophiſtica<g ref="char:EOLhyphen"/>tors, that a right Honeſt Man is very difficult to be found. This Spagyrical Art is become a very hatred.</p>
+               <p n="7">7. Nay, counted ſo ignoble, as how many would have it Baniſh'd to Silence?</p>
+               <p n="8">8. Yea, and even thoſe too, who have any liking to it, or would defend it, are reckon'd at leaſt Mad-men.</p>
+               <p n="9">9. How does <hi>D. Guibertus Lotharingus</hi> labour to prove, that this Chymical Sci<g ref="char:EOLhyphen"/>ence is of no moment, denying beſides, that neither the Books ſuppoſed to be <hi>Tho<g ref="char:EOLhyphen"/>mas Aquinas</hi>'s, <hi>Raymund Lully</hi>'s, or <hi>Arnold</hi>'s <hi>De villa nova,</hi> ever wrote concerning the Philoſophers Stone.</p>
+               <p n="10">10. But 'tis well all theſe Books of the aforeſaid Authors are Extant, [wrote by their own Hands] in the Libraries of ma<g ref="char:EOLhyphen"/>ny Learned Perſons, with whom they are eſteem'd.</p>
+               <p n="11">11. Yea, there's a few in mine too.</p>
+               <p n="12">12. Let then <hi>Guibertus</hi> the Rhetorician proceed with his Babling; by which there can be no profit (ſave the benefit
+<pb n="3" facs="tcp:41668:19"/>of the <hi>Latin</hi> in which he very much de<g ref="char:EOLhyphen"/>lights) be gotten.</p>
+               <p n="13">13. Nor does he by thoſe Elegant Rhe<g ref="char:EOLhyphen"/>torical Flouriſhes of Oratory Teach, but Deceive, (like Whores by their fine Dreſ<g ref="char:EOLhyphen"/>ſes and Painted Faces, allure Fools to their Eternal Prejudice.) Feed the Underſtand<g ref="char:EOLhyphen"/>ing with ſolid Fruit of Learning; but cauſes to ſmile by his Ignorant Diſcourſe, which you may perceive anon.</p>
+               <p n="14">14. I can't perſwade my ſelf Maſter
+<hi>Guibertus,</hi> that that may be raſhly con<g ref="char:EOLhyphen"/>temn'd or aboliſh'd, that has been ſo long in faſhion, and for ſo many Ages accounted firm.</p>
+               <p n="15">15. But this Science is glorious for its Antiquity and Stability.</p>
+               <p n="16">16. 'Tis not likely therefore, that this Noble Science ſhould ever fail by your Arguments or Diſputes.</p>
+               <p n="17">17. When as before <hi>Aeſculapius</hi>'s, long before
+<hi>Hippocrates</hi>'s Days, this Art was well approved of, and firmly rooted for Eternity amongſt the Wiſe and Think<g ref="char:EOLhyphen"/>ing World.</p>
+               <p n="18">18. Your pretending then to extirpate that which has remained firm for ſo ma<g ref="char:EOLhyphen"/>ny Ages together, (I think will) never conduce to your Applauſe.</p>
+               <p n="19">
+                  <pb n="4" facs="tcp:41668:20"/>19. And that only by a little
+<hi>Latin</hi> Babble, which yet for All—you ſee, you by all your Skill and Thoughts cannot do.</p>
+               <p n="20">20. Give then every one leave quietly to enjoy his own Opinion.</p>
+               <p n="21">21. As for me, 'tis the leaſt of my in<g ref="char:EOLhyphen"/>tention to conſume much time in refelling your trifling Arguments.</p>
+               <p n="22">22. Therefore for Brevity ſake, I refer you D.
+<hi>Guibertus,</hi> to the Proeme publiſhed by the Learned Maſter
+<hi>Theobald de Hoche<g ref="char:EOLhyphen"/>lande Mittelburgen, De Alchemiae Difficul<g ref="char:EOLhyphen"/>tatibus,</hi> where whatſoever can be objected againſt this Noble Science,
+<hi>&amp;c.</hi> [<hi>ut Nemo amplius addere aliquid poſſit ad Quaeſtionem ſolvendam,</hi>] is fully anſwered.</p>
+               <p n="22">22. I ſay therefore with that very Learned Gentleman, that the Writings of thoſe moſt Learned and Good Men, Dr. <hi>Thomas Aquinas, Hermes Triſmegiſtus, Raymund Lully, Marſillius Ficinus, Arnold de villa Nova,</hi> [whom <hi>Johannes Andreas,</hi> the moſt VViſe Counſellor ſtiles, The Divine, the moſt Experienced Phyſician and Alchy<g ref="char:EOLhyphen"/>miſt,] and others who are beyond Ex<g ref="char:EOLhyphen"/>ceptions, ſhew them Maſters of Under<g ref="char:EOLhyphen"/>derſtanding, and Lovers of Mother Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="23">
+                  <pb n="5" facs="tcp:41668:20"/>23. And why ſhould we believe the VVritings of a few Self-conceited Raylers, before the Solid VVritings of ſuch Learn<g ref="char:EOLhyphen"/>ed and Famous Men? who out of Malice cavil with thoſe VVorks they underſtand not; affirming their Aenigmatical and Ob<g ref="char:EOLhyphen"/>ſcure VVritings were intended only to make work for the Idle.</p>
+               <p n="24">24. But God forbid that we ſhould think thoſe Venerable Philoſophers wrote adviſedly upon any ſuch account.</p>
+               <p n="25">25. Thoſe that have inquired ſtudiouſ<g ref="char:EOLhyphen"/>ly into their VVorks, always have affirm<g ref="char:EOLhyphen"/>ed, that they procured Fame not by tri<g ref="char:EOLhyphen"/>fling and mad Aſſertions, but by high and ſublime, grounded on a true and ſtable Foundation.</p>
+               <p n="26">26. Here may be mentioned the joint Opinion of divers Nations concerning the tranſmutation of Metals.</p>
+               <p n="27">27. Not of the <hi>Latins</hi> alone, but of the the
+<hi>Greeks, Egyptians, Arabians, Caldeans, French, German, Spaniſh</hi> and
+<hi>Engliſh;</hi> [<hi>Mo<g ref="char:EOLhyphen"/>numenta quotidie ſtudioſorum Hominum ma<g ref="char:EOLhyphen"/>nibus teruntur.</hi>]</p>
+               <p n="28">28. All which affirm, as it were with one Mouth, (though with diverſe Tongues) that it's a very true Art, than which there is no Art more Magnificent or Sublime in the whole VVorld, [the Study of the
+<pb n="6" facs="tcp:41668:21"/>Scriptures excepted, that bringing, as was ſaid before, Health to the Soul] to under<g ref="char:EOLhyphen"/>ſtand which is the gift of God: To be Ma<g ref="char:EOLhyphen"/>ſters of which Art [of Chymiſtry is meant] there is required no little Study, VVatch<g ref="char:EOLhyphen"/>fulneſs and Pains.</p>
+               <p n="29">29. Perhaps in this following point, they are miſtaken who deny the Excel<g ref="char:EOLhyphen"/>lency of this Art, <hi>viz.</hi> becauſe ſince Infi<g ref="char:EOLhyphen"/>nite Chymiſts are ignorant of this grand matter. <hi>Neminem videant qui ſe Scientiam adeptum eſſe glorietur.</hi>
+               </p>
+               <p n="30">30. To which I anſwer, There's no<g ref="char:EOLhyphen"/>thing can cauſe a true Philoſophers won<g ref="char:EOLhyphen"/>der, [being already skill'd in the Nature and Cauſes of all things.]</p>
+               <p n="31">31 'Tis Ignorance alone is the cauſe of Admiration.</p>
+               <p n="32">32. For what One amongſt a Thou<g ref="char:EOLhyphen"/>ſand works upon the due Matter? Scarce<g ref="char:EOLhyphen"/>ly any. VVhat wonder then is it, if ma<g ref="char:EOLhyphen"/>ny be fruſtrated with a Deſerved End?</p>
+               <p n="33">33. Therefore <hi>Avicen</hi> ſays not imper<g ref="char:EOLhyphen"/>tinently, He which takes what he ought to take, and mingles it, and works as he ought, then he proceeds as he ought to proceed.</p>
+               <p n="34">34. There is truly many Illiterate Per<g ref="char:EOLhyphen"/>ſons, which underſtand not ſo much as common Senſe; how then is it likely for
+<pb n="7" facs="tcp:41668:21"/>ſuch as thoſe to underſtand the Meta<g ref="char:EOLhyphen"/>phors and Analogies of Philoſophers?</p>
+               <p n="35">35. Others there are who though they are Learned and Quick-witted, yet have not Books; either becauſe [for Covetouſ<g ref="char:EOLhyphen"/>neſs ſake] they will not Buy or Pay for them, or elſe are ſo Poor, as they can<g ref="char:EOLhyphen"/>not compaſs the Price of them; or elſe becauſe they cannot find Examples in thoſe Places in which they abide imme<g ref="char:EOLhyphen"/>diately; and ſo through Impatience and Deſpair deſiſt, when it may be they were e'ne lighting on the true method to effect.</p>
+               <p n="36">36. But for thoſe who ſtudy Books and Art unceſſantly and with Patience, let them remember the Saying of <hi>Solomon, Sapiens abſcondit Scientiam; Os autem Stul<g ref="char:EOLhyphen"/>ti Confuſioni proximum eſt.</hi> A VViſe Man lays up, (or conceals) Knowledge; but the Mouth of a Fool is next to Confu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p n="37">37. Nor wants there a Reaſon why thoſe that have this grand Elixir, keep themſelves private, not ſignifying their Happineſs to any one.—VVhy, pray the Reaſon?—I anſwer in one word,
+<q>
+                     <hi>Foelix quem faciunt, aliena pericula cautum.</hi>
+                  </q>
+                  <pb n="8" facs="tcp:41668:22"/>
+                  <q>Bleſt is that Man who can beware betimes. By's Friends Misfortunes.</q>
+               </p>
+               <p n="38">38. How many in our Age have miſe<g ref="char:EOLhyphen"/>rably Died, who wore known to have skill in this Art, by reaſon of their Prin<g ref="char:EOLhyphen"/>ces Fear and Envy? Nor could they poſ<g ref="char:EOLhyphen"/>ſibly eſcape from their Power:—But of them by and by.</p>
+               <p n="39">39. VVhy could they not believe what <hi>Thomas Aquinas</hi> ſays? That the uſe of no Art ought to be prohibited, which produ<g ref="char:EOLhyphen"/>ces Natural and True Effects by only Na<g ref="char:EOLhyphen"/>tural Cauſes.</p>
+               <p n="40">40. <hi>Marſilius Ficinus</hi> ſays, (they are in the right on't, which affirms,) that all things may be multiplied as well Plants as Animals, by a certain Spirit, but that that Spirit is detain'd in groſſer Metals with the Matter, which if a little rightly ſeparated, and the Secret preſerved in its connatural Habitation or Throne, will certainly generate its like.</p>
+               <p n="41">41. There are ſome who will not Be<g ref="char:EOLhyphen"/>lieve, though it's conſented to by ſo ma<g ref="char:EOLhyphen"/>ny Men, and by ſo many diverſe Nations; nay, that will not by Experience and Rea<g ref="char:EOLhyphen"/>ſon it ſelf, grant themſelves overcome. But rather (ſuch an Age do we live in,)<pb n="9" facs="tcp:41668:22"/>affirm the Metal tranſmuted into Gold and Silver by the help of the Devil and Hands of a Subtile Magician, than aſcribe the effect to the power of God and Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="42">42. But pray by whom eſpecially is this Art deſpiſed? even of thoſe moſt who have Read Chymical Books, in (as it were) great haſte, without premeditation, <hi>&amp;c.</hi> Like the Dogs of
+<hi>Nile,</hi> juſt take a Lick at the Waters, and run away again.</p>
+               <p n="43">43. Who when they underſtand not the Boſom Secrets of Nature, Art and the Philoſophers, blame them not them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p n="44">44. But what more unjuſt than for a Man to hate that he underſtands not?</p>
+               <p n="45">45. What more ſilly and contempti<g ref="char:EOLhyphen"/>ble, than the Judgment of an Unskilful Man?</p>
+               <p n="46">46. The late Exclamation of a Comae<g ref="char:EOLhyphen"/>dian, I think was not for nothing, <hi>viz.</hi> That there's nothing in the whole World more unreaſonable, than the Cenſure of an Ignorant Perſon, who thinks nothing well done, in which he himſelf had not a Hand.</p>
+               <p n="47">47. As if he had ſaid, <hi>Scientia non ha<g ref="char:EOLhyphen"/>bet Inimicum prater Ignorantem:</hi> Arts and<pb n="10" facs="tcp:41668:23"/>Sciences have no Enemies except the Illi<g ref="char:EOLhyphen"/>terate, who underſtand them not.</p>
+               <p n="48">48. But to anſwer the Queſtion, <hi>viz.</hi> Whether this Art can be proved true, by Authority, Reaſon and Experience?</p>
+               <p n="49">49. To which I anſwer, I can, to prove the Truth of this noble Art, bring the Teſtimonies, Authority and Experience of many Wiſe and Learned Men.</p>
+               <p n="50">50. Not long ſince, I received a Letter from a very Famous Gentleman, whom, you <hi>Guibertus,</hi> know very well, and whoſe Father you ſometime ſince uſed very courteouſly, (which with ſome other Let<g ref="char:EOLhyphen"/>ters God willing, I intend ſhortly to pub<g ref="char:EOLhyphen"/>liſh.)</p>
+               <p n="51">51. In which He Learned Man told me of a certain honeſt Chymiſt which he En<g ref="char:EOLhyphen"/>tertain'd, furniſhing him with ℥iv<abbr>ſs</abbr> of Lead. He (the Chymiſt) caſting in on the aforeſaid Lead a Grain of a certain Red Powder, (the Lead being running hot,) the whole Lead was turned into moſt true and pure Gold, without any Diminution.</p>
+               <p n="52">52. The Man that did this I am very well acquainted with, being Fellow-Boarders together for ſome time in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and bleſſed be God he's yet Li<g ref="char:EOLhyphen"/>ving.—</p>
+               <p n="53">
+                  <pb n="11" facs="tcp:41668:23"/>53. I heard of another ſome time ſince at <hi>Lutetia,</hi> by a very worthy Perſon, that had Gold made by the Chymical Art.</p>
+               <p n="54">54. Nor was he aſhamed to own it, for ſelling it about, he was at laſt took into Cuſtody, (being ſuppoſed to have ſtolen it,) having ſold ſo great a Quantity, and ſo much lying by him.</p>
+               <p n="55">55. Where he happned to meet with a Gold-ſmith, whom he asked whether he would Buy Five Marks of moſt pure<g ref="char:EOLhyphen"/>ly Refined Gold? I had it (ſaid he) from <hi>Edward Kelley,</hi> at <hi>Prague,</hi> where at the Houſe of Dr. <hi>Aggeſius Thaddeus,</hi> I ſaw a whole Pound of
+<hi>Argent-vive,</hi> by one lit<g ref="char:EOLhyphen"/>tle Drop of a very Red Liquor tranſmu<g ref="char:EOLhyphen"/>ted into moſt pure Gold.</p>
+               <p n="56">56. He is ſtill ſafe in cuſtody there, that by his Example the Incredulous may be perſwaded.</p>
+               <p n="57">57. I had of this very often in my Hands.</p>
+               <p n="58">58. But which is the greateſt wonder, you may plainly ſee ſome little of this Red matter ſticking upon the Gold, con<g ref="char:EOLhyphen"/>verted from Mercury, more Red than the reſt, and with that more
+<hi>Argent-vive,</hi> may be converted.</p>
+               <p n="59">59. I am ſilent concerning <hi>Bohemia</hi> and
+<hi>Saxony;</hi> Time will diſcover all things.</p>
+               <p n="60">
+                  <pb n="12" facs="tcp:41668:24"/>60. There is many Books of this Sub<g ref="char:EOLhyphen"/>ject Publiſhed, amongſt which, Read that little Book of <hi>Petri Roberti Valonſis,</hi> of the Truth and Antiquity of the Chymi<g ref="char:EOLhyphen"/>cal Art, and that of <hi>Petri Boni Ferrarien<g ref="char:EOLhyphen"/>ſis,</hi> concerning the certainty thereof.</p>
+               <p n="61">61. Who amongſt other Words, ſays, let the Ignorant (then) be ſilent, and let them not contemn what they under<g ref="char:EOLhyphen"/>ſtand not.—No right Wiſe Man will deny this Art its Excellency.</p>
+               <p n="62">62. Conſider if it be an Art, by what means 'tis an Art, and if it is not, why it is not; and let there be a time expect<g ref="char:EOLhyphen"/>ed, when God ſhall raiſe up ſome one or other to ſet forth this Art in its Glory and Excellency.</p>
+               <p n="63">63. But attend my Words a little, <hi>Gui<g ref="char:EOLhyphen"/>bertus,</hi> ſince it has been that many great Secrets has hitherto been hid from true and worthy Philoſophers. I ſhall give the Reaſon for your ſake, and to confute your Arguments, why this Art was tra<g ref="char:EOLhyphen"/>duced Aenigmatically, and by Obſcure Words.</p>
+               <p n="64">64. Know then, that in every Science it is primatively neceſſary to have a Sub<g ref="char:EOLhyphen"/>ject about or upon which to Build.</p>
+               <p n="65">65. But this Science has Univerſal Na<g ref="char:EOLhyphen"/>ture for its Subject; therefore they ſay,<pb n="13" facs="tcp:41668:24"/>the Stone is in all things, yet not that its Matter is to be call'd out of every thing.</p>
+               <p n="66">66. This Spirit is as well in Animals and Vegetables, as Minerals.</p>
+               <p n="67">67. Therefore the Stone is call'd Ani<g ref="char:EOLhyphen"/>mal, Vegetable and Mineral. But this not becauſe it ſhould be (the more) ga<g ref="char:EOLhyphen"/>thered from Animals and Vegetables.</p>
+               <p n="68">68. For as a Philoſopher ſays, <hi>ſi vis mederi metallis,</hi> &amp;c. If you would make Metals more excellent, let the Original of your excelling cauſe, proceed from Metals.</p>
+               <p n="69">69. But this Spirit is over much Sealed in Metals; they have ſought in Minerals, but not in all, only in thoſe where Na<g ref="char:EOLhyphen"/>ture has hid it.</p>
+               <p n="70">70. By what one Name then is this Matter Famous? I'll tell you. But firſt I'de ask you, D. <hi>Guibertus,</hi> and anſwer me if you think good, what you mean to do?</p>
+               <p n="71">71. For the Principium of a Work or Buſineſs, reſults from the End of the In<g ref="char:EOLhyphen"/>tention.</p>
+               <p n="72">72. If you anſwer to gain-ſay your In<g ref="char:EOLhyphen"/>tention of getting Gold by that, <hi>&amp;c.</hi> I anſwer, 'twas never the Deſign of the Antient Philoſophers, by that only to heap<pb n="14" facs="tcp:41668:25"/>up to themſelves Gold and Silver; no, the reſult and ſcope of their Deſire was, <hi>ut Mens ſana in Corpore Sano,</hi> &amp;c. That they might preſerve a Healthy Soul in a Healthy Body, till God's appointed time for their Diſſolution was fully ex<g ref="char:EOLhyphen"/>pired.</p>
+               <p n="73">73. For ſo many great Virtues are con<g ref="char:EOLhyphen"/>tain'd in this Powder, that a little be<g ref="char:EOLhyphen"/>ing taken into the Body, it diſperſes the Humours in a Moment, bringing the Bo<g ref="char:EOLhyphen"/>dy into ſo good a Diſpoſition, that not one ill Humour is permitted to reſide there<g ref="char:EOLhyphen"/>in.</p>
+               <p n="74">74. Which Powder with its uſe, <hi>Ray<g ref="char:EOLhyphen"/>mund Lully</hi> very well knew, Living One Hundred and Fifty Years; and had God ſeen ſit, might (had not the <hi>Saracens</hi> Bar<g ref="char:EOLhyphen"/>barouſly Slain him,) had Lived to the Age of Two Hundred.</p>
+               <p n="75">75. Theſe Great Virtues the Philo<g ref="char:EOLhyphen"/>ſophers obſerving in the <hi>Elixir,</hi> would for Curioſity ſake, try it upon imper<g ref="char:EOLhyphen"/>fect Metals. Thus Diſputing, If this Medicine cures the Leproſie, Dropſie,
+<hi>&amp;c.</hi> and preſerves Human Bodies, what ef<g ref="char:EOLhyphen"/>fects will it have on Imperfect Metals? They projected, and found its admirable Virtues.</p>
+               <p n="76">
+                  <pb n="15" facs="tcp:41668:25"/>76. Perceiving it to be ſo Efficacious a Secret, they bound themſelves by an Oath never openly to Declare the Mo<g ref="char:EOLhyphen"/>dus of its Preparation. Nay, at laſt they began to hide the Art by Obſcure Phra<g ref="char:EOLhyphen"/>ſes, leſt it ſhould be Seiz'd on by the Un<g ref="char:EOLhyphen"/>worthy.</p>
+               <p n="77">77. But to ſpeak fully on this Ar<g ref="char:EOLhyphen"/>gument, would require too much time and room either for me, or this little Book to allow of: But more of this elſe<g ref="char:EOLhyphen"/>where.</p>
+               <p n="78">78. We will return now to our in<g ref="char:EOLhyphen"/>tended Diſcourſe, concerning of what, it is made; <hi>i. e.</hi> the Matter of the Stone, at which almoſt all Chymiſts ſtumble.</p>
+               <p n="79">79. For the Philoſophers have almoſt as many Names for it, as there is variety of colours in the Work; which is as ma<g ref="char:EOLhyphen"/>ny as can be imagin'd before it comes to its perfect Redneſs.</p>
+               <p n="80">80. For they name it by that Name of which the Colour is.</p>
+               <p n="81">81. No wonder then that ſo many are Deluded by the Literal Signification of the Words.</p>
+               <p n="82">82. 'Tis the hidden Spirit of the Words muſt only be taken notice of.</p>
+               <p n="83">
+                  <pb n="16" facs="tcp:41668:26"/>83. The Praxis therefore of this hid<g ref="char:EOLhyphen"/>den Work excels the greateſt Secret of Nature, which unleſs reveal'd by God, or one who has work'd it, or by ſeeing it done one's ſelf, it's impoſſible to obtain it.</p>
+               <p n="84">84. All Books without which ſignifying nothing, unleſs you have the knowledge of the matter to work upon; then indeed one Book opens another, but not be<g ref="char:EOLhyphen"/>fore.</p>
+               <p n="85">85. We ſay therefore that Sulphur and Argent-vive is the matter of our Stone; therefore the knowledge of them is neceſſary, that the matter may the more artificially be cull'd out of them, that the Stone may the ſooner be perfect<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="86">86. A certain prepared matter lies hid in a certain Body, which is for the Work, without other Preparation.</p>
+               <p n="87">87. And a difficult matter it is to find it out, than which, as <hi>Raymundus</hi> ſays, there is no greater Secret in the whole World, which ſo conſiſts in <hi>Saturno</hi> of the Philo<g ref="char:EOLhyphen"/>ſophers, that they which moſt narrowly ſeek into its Virtues and Nature, oblige themſelves by an Oath never to reveal thoſe Secrets.</p>
+               <p n="88">
+                  <pb n="17" facs="tcp:41668:26"/>88. Being ſo many, as expelling not only the Diſeaſes and corrupt Humours incident to the Body, but alſo converting [as has been experienced] imperfect Me<g ref="char:EOLhyphen"/>tals into pure Gold.</p>
+               <p n="89">89. Now I [<hi>Pietate motus</hi>] being mov'd by Brotherly Affection, will diſcloſe the proper Name of this matter, and declare it with <hi>Arnold</hi> of retarding Old Age.</p>
+               <p n="90">90. For he calls it <hi>Chiffor Minerale,</hi> that is, the Animal Stone, the Preparation of which the Ancients have conceal'd.</p>
+               <p n="91">91. There is alſo another Name for it, eſpecially for the Mineral Stone, the Pre<g ref="char:EOLhyphen"/>paration of which they have alſo kept ſecret; ſome calling it <hi>Abiſſini Biſtumi,</hi> others the <hi>Mineral Chaos,</hi> in which is contained a very great mineral Power.</p>
+               <p n="92">92. In which all Metals lie gliſtering in obſcurity.</p>
+               <p n="93">93. Some affirm, that the matter of this Stone is nothing elſe than a corpore<g ref="char:EOLhyphen"/>al Spirit of the World, formed in the Ma<g ref="char:EOLhyphen"/>trix of the Earth, from which it receives all its animal, vegetable and mineral Fa<g ref="char:EOLhyphen"/>culties (as was aforeſaid.)</p>
+               <p n="94">94. As VVax receives the Impreſſion of any Shape and Form, ſo does <hi>Argent Vive</hi> lurking in the matter of the Stone, receive the Properties or Proprieties of all things.</p>
+               <p n="95">
+                  <pb n="18" facs="tcp:41668:27"/>95. Do but ſee then <hi>D. Guibertus,</hi> what marvellous things it performs, being drawn out of, and freed from its Chaos, purify'd from its Feces, and being made a Quinteſſence.</p>
+               <p n="96">96. The Stone (ſays a Learned Man) of the wiſe Men, is perfected in its ſelf, and by its ſelf. The Roots, Branches, Leaves, Flowers and Fruit.</p>
+               <p n="97">97. 'Tis then like a Tree; now what a many Boughs there is belonging to one Tree? And then, what a multitude of Seeds?</p>
+               <p n="98">98. In like manner is this our Philoſo<g ref="char:EOLhyphen"/>phick fruitful Tree, containing in its ſelf the Seed of Gold and Silver.</p>
+               <p n="99">99. VVhich Seed, if ſown in its proper Earth, brings forth Sols and Luna's <hi>ad in<g ref="char:EOLhyphen"/>finitum,</hi> as other Seeds ſown in the Ground.</p>
+               <p n="100">100. For Nature naturally acts and ope<g ref="char:EOLhyphen"/>rates perpetually on things of its own Nature, and not of a diverſe Species, much leſs then in a diverſe kind.</p>
+               <p n="101">101. For by how much the greater the Diverſity of things is, by ſo much the greater alſo is the Unity of things.</p>
+               <p n="102">102. For Nature diſpoſes all things <hi>in Potentia,</hi> for as much as that Art ſhould and does perfect
+<hi>Actu.</hi>
+               </p>
+               <p n="103">
+                  <pb n="19" facs="tcp:41668:27"/>103. For Example, Nature has and does produce matter whereof Glaſs is made; but in no place Glaſs its ſelf. In like manner it has alſo created Iron lying in a rude matter, committing it to us in a rough, unfaſhion'd and confuſed Form, that therewith we make Horſe-ſhoes, Sic<g ref="char:EOLhyphen"/>kles, Launces, or whatſoever we pleaſe.</p>
+               <p n="104">104. Thus Nature has alſo created Herbs, Trees, Gems, Corals, Gold, and every thing the Eye can ſee; yet as they are, they cannot be call'd Medicines, but rude and unrefined Subſtances, which by Chimiſtry are ſo order'd into Medicines, as to purge, diſſolve and ſeparate the He<g ref="char:EOLhyphen"/>terogene from the Homogene Qualities; otherwiſe the putrid would commix with the putrid, and the corrupt with the cor<g ref="char:EOLhyphen"/>ruptible.</p>
+               <p n="105">105. Thus God the Author of Nature has created an only certain ſimple matter, by which the Stone may be made, which wiſe Men have call'd the Root of Me<g ref="char:EOLhyphen"/>tals.</p>
+               <p n="106">106. VVhich matter, if not diſpos'd by Chymical Philoſophy <hi>a potentia ad actum,</hi> from its power of performing, to Per<g ref="char:EOLhyphen"/>formance its ſelf, it will always remain in the ſame ſtate, of which the matter whereof Glaſs is formed is in, which is<pb n="20" facs="tcp:41668:28"/>not Glaſs its ſelf, till means be uſed by an Artiſt to make it ſo.</p>
+               <p n="107">107. The matter of this Stone is one only thing, as I have often ſaid before, which, as being but one thing, is not num<g ref="char:EOLhyphen"/>bred or divided.</p>
+               <p n="108">108. VVhich, if numbred, it is no more one thing; and if divided, it then begins to be compoſed.</p>
+               <p n="109">109. If therefore you would profit by Philoſophy, remember to take one only thing, [ſimple] whoſoever does other<g ref="char:EOLhyphen"/>wiſe, will never find an end or perfection.</p>
+               <p n="110">110. VVhereas Nature from one thing produces all, and thus in one both agree together.</p>
+               <p n="111">111. For Nature is the Mother, and Art her Daughter.</p>
+               <p n="112">112. Now where Nature ceaſes, Art begins; and this and no other ways is the Order and Rule of Truth.</p>
+               <p n="113">113. VVhen therefore you have found that one matter which contains all things in its ſelf, exhibit not other extraneous matters to this, with an intention to bring it to perfection; they will not bring it to perfection, but corruption; and you'll grievouſly deceive your ſelf.</p>
+               <p n="114">114. For the matter of our Stone is one only thing; yet not ſo very ſimple, but it<pb n="21" facs="tcp:41668:28"/>contains the Four Elements, as other Ele<g ref="char:EOLhyphen"/>mentary Bodies do.</p>
+               <p n="115">115. For as a Tree planted in the Ground brings forth Fruit in its proper Seaſon, in, through, and by its ſelf: Thus out matter, if tranſplanted, and bedew'd with its own Matter, will bring forth [as the Tree] it's Fruit, which, if ſown up<g ref="char:EOLhyphen"/>on impure Metals, will undoubtedly tranſ<g ref="char:EOLhyphen"/>mute them into pure Gold.</p>
+               <p n="116">116. For this Philoſophick Tree con<g ref="char:EOLhyphen"/>tains in its ſelf whatſoever is neceſſary for its ſelf, without any Man's Aſſiſtance, as in the following Dialogue and Pages (God willing) we may ſee.</p>
+               <p n="117">117. As for you then <hi>D. Guibertus,</hi> do you be adviſed by thoſe wiſe Men who af<g ref="char:EOLhyphen"/>firm,</p>
+               <p n="118">118. That thoſe Men are unable and unfit to judge of thoſe things, which things they do not underſtand.</p>
+               <p n="119">119. And that every Man which muſt or will give Judgment on thoſe things, that (through Ignorance) ſeem to him dubi<g ref="char:EOLhyphen"/>ous, muſt and ought to give that his Judgment in the beſt and mildeſt Senſe.</p>
+               <p n="120">120. 'Tis therefore the part of a wiſe Man, rather to ſuſpend his Judgment concerning thoſe things he knows not, or at moſt, he has but a very ſmall ap<g ref="char:EOLhyphen"/>prehenſion<pb n="22" facs="tcp:41668:29"/>of, than to rail at and abuſe thoſe things he underſtands not.</p>
+               <p n="121">121. But ſince there is no Remedy a<g ref="char:EOLhyphen"/>gainſt abuſes—every Artiſt is not worthy of the ſame Commendation, nor are all equally ingenious or commendable.</p>
+               <p n="122">122. For one Artiſt excels another in Ingenuity and Skill.</p>
+               <p n="123">123. For the Art depends not on the Artiſt, but the Artiſt on the Art.</p>
+               <p n="124">124. Therefore before we go any further, this Queſtion muſt be reſolved, <hi>viz.</hi> Whether any Art may be acknow<g ref="char:EOLhyphen"/>ledged and granted allowable?</p>
+               <p n="125">125. Whether this Art is prohibited by any Divine or Human Law? For law<g ref="char:EOLhyphen"/>ful and unlawful Arts are thus diſcern<g ref="char:EOLhyphen"/>ed.</p>
+               <p n="126">126. I find no Prohibition of Alchimy or Confection of Gold in the Scripture, amongſt thoſe many Vices and Crimes that the Divine Law-giver <hi>Moſes</hi> exclaim<g ref="char:EOLhyphen"/>ed againſt, and forbid in
+<hi>Duteronomy</hi> and <hi>Leviticus.</hi>
+               </p>
+               <p n="127">127. Nor can I perſwade my ſelf that Diſtillations, Alimbecks, and the Confe<g ref="char:EOLhyphen"/>ction of Gold and Silver, deſerves more to be prohibited, than the melting down of Jewels, Gold Rings, and many ſuch like Ornaments.</p>
+               <p n="128">
+                  <pb n="23" facs="tcp:41668:29"/>128. Of what Great uſe Plates and thin Pieces, <hi>&amp;c.</hi> of Gold and Silver were to the People of God among the Jews, <hi>&amp;c.</hi> I think none is ignorant of.</p>
+               <p n="129">129. Yea, <hi>Eſdras</hi> ſeems plainly to give his Suffrage for this great Art, where <hi>Chap.</hi> 8. <hi>Book</hi> 2.
+<hi>Verſe</hi> 2. <hi>And he anſwered me, ſaying, The most High has made this World for many, but the World to come for few.</hi>
+               </p>
+               <p>I tell thee a Similitude, <hi>Eſdras:</hi> As when thou askeſt the Earth, it ſhall ſay unto thee, that it giveth much Mould whereof earthen Veſſels are made, but little <hi>Powder</hi> that Gold cometh of; even ſo is the courſe of this preſent World.</p>
+               <p n="130">130. Now as for Human Laws, ſurely there is not a word mentioning the pro<g ref="char:EOLhyphen"/>hibition of Alchimy amongſt the German Laws,
+<hi>&amp;c.</hi> or in <hi>Digeſtis, Cod. Juſt. vel Novel.</hi>
+               </p>
+               <p n="131">131. Nay, but the Art of Multipli<g ref="char:EOLhyphen"/>cation is rather approved of and com<g ref="char:EOLhyphen"/>mended.</p>
+               <p n="132">132. But it may be objected, There's Cheats amongſt the Chymiſts.</p>
+               <p n="133">133. <hi>Anſwer.</hi> And amongſt Chriſtians what a many Hereticks? Amongſt Phyſi<g ref="char:EOLhyphen"/>cians, what a many Quacks and Impo<g ref="char:EOLhyphen"/>ſtors? And amongſt Counſellors, Judges and Lawyers, what a pretending Rabble?
+<pb n="24" facs="tcp:41668:30"/>Surely the Piety and Honeſty of theſe Diſputations,
+<hi>&amp;c.</hi> are to be praiſed.—</p>
+               <p n="134">134. But I'd ask whether the Crimes of an Artiſt are to be, or ſhould rightly or juſtly be imputed to his Art?</p>
+               <p n="135">135. Well ſays that wiſe Counſellor, That the puniſhment of anothers Crimes ſhould be removed from thoſe whom no Fault can lay hold of. But—</p>
+               <p n="136">136. <hi>In Summa,</hi> Every one loves not that he underſtands not.</p>
+               <p n="137">137. Nay, ſome fly from, contemn and diſdain thoſe Arts they are ignorant of.</p>
+               <p n="138">138. But as the Knowledge and Un<g ref="char:EOLhyphen"/>derſtanding of any thing increaſes, ſo does the Love towards it alſo.</p>
+               <p n="139">139. <hi>Guibertus</hi> indeed is skill'd in the Latin and Rhetorick. 'Tis no wonder then that he contemns this Art he is igno<g ref="char:EOLhyphen"/>rant of in ſo Scholaſtick a Style, [He has nothing elſe to do] intending to annihi<g ref="char:EOLhyphen"/>late, if he could, that Noble Art, un<g ref="char:EOLhyphen"/>known to him, by ſuch kind of Paint.</p>
+               <p n="140">140. As for us, weemploy our ſelves about our Furnaces, endeavouring to de<g ref="char:EOLhyphen"/>fend and maintain the TRUTH in ſmoaky Latin and ſimple Oratory. Nor need we Rhetorical Flouriſhes, our Cauſe being good enough without.</p>
+               <p n="141">
+                  <pb n="25" facs="tcp:41668:30"/>141. But, Benevolent Readers, as for you, labour and pray, and be willing to maintain Truth; and that GOD and Author of Truth and Myſteries ſhall be with you.</p>
+               <trailer> 
+                  <hi>Farewel once more, And meditate on what I have wrote.</hi>
+               </trailer>
+               <trailer>The End of the Apologetick Introduction.</trailer>
+            </div>
+            <div type="instruction">
+               <pb n="26" facs="tcp:41668:31"/>
+               <head>THE Practica Mirabilis FOR THE <hi>Accompliſhing and obtaining from the Beginning to the End the White and Red Elixir.</hi>
+               </head>
+               <head type="sub">
+                  <hi>Which whoſoever underſtands, need not read any other Book.</hi>
+               </head>
+               <p n="1">1. IN the firſt place, Love God the Searcher of all Hearts; walk holi<g ref="char:EOLhyphen"/>ly before him, and keep thy Feet from the Paths of wickedneſs.</p>
+               <p n="2">2. For the Knowledg of this Art is the Gift of God.</p>
+               <p n="3">3. Nor let any Mortal glory that he can perform any thing of himſelf, with<g ref="char:EOLhyphen"/>out his Divine Aſſiſtance.</p>
+               <p n="4">4. Pray and Labour.</p>
+               <p n="5">5. The work is light, and requires not much expence, only much patience and waiting for.</p>
+               <p n="6">
+                  <pb n="27" facs="tcp:41668:31"/>6. If you but once untie the Knot on't, the work may then be well ſtyled VVomens work, and Childrens play.</p>
+               <p n="7">7. If you but rightly underſtand the Radixes of Numerals, you know e<g ref="char:EOLhyphen"/>nough.</p>
+               <p n="8">8. Be ſatisfied with this little Tractate, and Chriſt Jeſus will furniſh you with more</p>
+               <p>Be happy Reader, and ſo farewel.</p>
+               <p n="9">9. Now in the Name of God will I declare the Practick and Method of Philo<g ref="char:EOLhyphen"/>ſophical working, how the great Elixir is brought to perfection.</p>
+               <p n="10">10. Or the white and red Tincture, compoſed only of the Mercury of the Philoſophers.</p>
+               <p n="11">11. Bringing Crude Mercury and An<g ref="char:EOLhyphen"/>timony to perfect Perfection, converting all imperfect Bodies into pure Sol and Lune, far excelling that produced by Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="12">12. From therefore the <hi>Mercury</hi> of the Phioloſophers, which they call their <hi>Prima Materia,</hi> or Firſt Matter: Their Aque<g ref="char:EOLhyphen"/>ous, Frigid and Humid Element: Their <hi>Aqua Permanens,</hi> their <hi>Spiritus Corporis, Vapor unctuoſus, Aqua Benedicta,</hi> their <hi>A<g ref="char:EOLhyphen"/>qua Venoſa, Aqua Sapientum, Acetum Phi<g ref="char:EOLhyphen"/>loſophorum, Aqua Mineralis,</hi> their <hi>Ros Coe<g ref="char:EOLhyphen"/>leſtis,
+<pb n="28" facs="tcp:41668:32"/>Gratiae,</hi> their <hi>Lac Virginis,</hi> their
+<hi>Mer<g ref="char:EOLhyphen"/>curius Corporis Magneſia, Radix Philoſophica,</hi> and by infinite more Names, which you may find in Philoſophick Books.</p>
+               <p n="13">13. VVhich matter, tho going by di<g ref="char:EOLhyphen"/>vers Names, yet always ſignifie one and the ſame thing, as being ☿ of the wiſe Men, from which only and alone is made the red and white Tincture.</p>
+               <p n="14">14. Therefore, ſays <hi>Geber,</hi> that Prince of Philoſophers, <hi>Our Art is not perfected in a multitude of things; but it is one thing alone, it is one Stone, one Medi<g ref="char:EOLhyphen"/>cine, in which conſiſts the Magiſtery. To which we do not add any Foreign thing, unleſs in its Preparation, by removing Superfluities: For in and by it are all things neceſſary for the Work, to which we add not (I ſay) any extraneous things, becauſe of Gold and Sil<g ref="char:EOLhyphen"/>ver; for They are not extraneous to the Stone its ſelf, if fermented therewith, they then being both Coadjutors to the ſame, by which the Phyſical Work is finiſhed.</hi>
+               </p>
+               <p n="15">15. Another Philoſopher ſays we make uſe of venerable Nature—For Nature cannot be mended or made better but by things of its own Nature.</p>
+               <p n="16">16. Therefore we muſt not introduce any thing of an Allen Nature as a Helper to this Work; nor Powder, nor Water,
+<pb n="29" facs="tcp:41668:32"/>nor any thing of an extraneous Nature.</p>
+               <p n="17">17. For divers things do not better our Phyſical Stone; therefore 'tis only per<g ref="char:EOLhyphen"/>fected by the Mercury of the Philoſo<g ref="char:EOLhyphen"/>phers.</p>
+               <p n="18">18. All other things, as Salts, Aloms, Vitriols, Borax's, Aqua Fortis's, <hi>&amp;c.</hi> being unprofitable and good for nothing.</p>
+               <p n="19">19. Therefore the aforementioned Mercury is the only
+<hi>Radix Phyſica,</hi> the <hi>Ar<g ref="char:EOLhyphen"/>bor Alta</hi> from which infinite Boughs are multiplied: And this is call'd that Stone which is mention'd ſo often in the Books of Philoſophers, and which they had.</p>
+               <p n="20">20. But the firſt Operation of the Stone is called Sublimation.</p>
+               <p n="21">21. Now how this Mercury of the Phi<g ref="char:EOLhyphen"/>loſophers ought to be ſublimed and brought to Perfection, ſhall be plainly laid open in the following Lines, without any Diſſimulation or Obſcurity.</p>
+               <p n="22">22. ¶ Obſerve then that this Sublima<g ref="char:EOLhyphen"/>tion is not vulgar, but Phyſical.</p>
+               <p n="23">23. Our Sublimation being nothing elſe but a Subtiliation of a thing.</p>
+               <p n="24">24. So that Phyſical Sublimation is an Elevation of the Non-fixed Parts from the Fixed.</p>
+               <p n="25">25. For the ſubtile non-fixed parts are elevated by Fumes from the Fixed parts.</p>
+               <p n="26">
+                  <pb n="30" facs="tcp:41668:33"/>26. I would that they be not ſeparated one from another, but remain together inmutual Conjunction.</p>
+               <p n="27">27. And now know that he which con<g ref="char:EOLhyphen"/>joyns our Phyſical ☿, rightly, ſublimes it, (<hi>i. e.</hi> ſubtiliates it) in which depends the vertue of our Stone, that makes and fi<g ref="char:EOLhyphen"/>niſhes our whole Elixir.</p>
+               <p n="28">28. For as <hi>Geber</hi> ſays the whole Perfe<g ref="char:EOLhyphen"/>ction of the Art conſiſts only in the right Sublimation, right manner of Veſſel, and Regimen of Fire.</p>
+               <p n="29">29. Becauſe in this Sublimation, every thing of this are made and do conſiſt, <hi>viz.</hi> Sublimation, Diſtillation, Aſcenſion, Deſ<g ref="char:EOLhyphen"/>cenſion, Coagulation, Putrefaction, Cal<g ref="char:EOLhyphen"/>cination, Fixation, <hi>&amp;c.</hi>
+               </p>
+               <p n="30">30. Concerning which the Philoſophers have much capitulated, that by ſo doing they might make their Writings the more difficult to be underſtood, to the end that the unwiſe ſhould by no means apprehend them.</p>
+            </div>
+            <div n="1" type="chapter">
+               <pb n="31" facs="tcp:41668:33"/>
+               <head>CHAP. I. <hi>Of the Firſt Preparation.</hi>
+               </head>
+               <p>TAke, in the Name of the Lord Jeſus Chriſt, the vendible prepared Mer<g ref="char:EOLhyphen"/>cury, the Water of Philoſophers, the <hi>Primum Hyle</hi> of the wiſe Men, put it in<g ref="char:EOLhyphen"/>to its clean, bright, lucid and round Veſ<g ref="char:EOLhyphen"/>ſel.</p>
+               <p n="2">2. Cloſe its Mouth very well with <hi>Her<g ref="char:EOLhyphen"/>mes</hi>'s Seal, and let it ſuffocate in its tem<g ref="char:EOLhyphen"/>perate and warm little Bed for a Philoſo<g ref="char:EOLhyphen"/>phers Month.</p>
+               <p n="3">3. Never in that Month's time permit<g ref="char:EOLhyphen"/>ting it to cool, (for then all's undone.)</p>
+               <p n="4">4. Till you have ſublimed ſo long, that it will ſweat no longer, (i. e. till there is nothing remaining either to aſcend or deſcend.)</p>
+               <p n="5">5. And till that matter within begins to putrifie, be choaked, coagulated and fix<g ref="char:EOLhyphen"/>ed by vertue of the continual maintenance of its due Heat, that nothing will aſcend (any longer) in any Airy fumous Sub<g ref="char:EOLhyphen"/>ſtance, but remain fixed on the bot<g ref="char:EOLhyphen"/>tom.</p>
+               <p n="6">
+                  <pb n="32" facs="tcp:41668:34"/>6. Its Moiſtneſs being all drawn up, putrifyed and coagulated, and turned in<g ref="char:EOLhyphen"/>to a Black Earth, which is called the <hi>Crows Head,</hi> the Black and Dry Element, <hi>&amp;c.</hi> Then is the true Sublimation of the Philoſophers expedited.</p>
+               <p n="7">7. In which Sublimation all the fore<g ref="char:EOLhyphen"/>mentioned manners of Doings exiſt, <hi>viz.</hi> Solution, Diſtillation, Coagulation, Putre<g ref="char:EOLhyphen"/>faction, Calcination and Fixation in one only Veſſel, and on one only Furnace, as was ſpoke of before.</p>
+               <p n="8">8. For when our Stone is in its Veſſel, and when it ſhall aſcend by Fumes to the top of the ſame, it is then call'd Sublima<g ref="char:EOLhyphen"/>tion and Aſcenſion.</p>
+               <p n="9">9. But when it precipitates from the top of the Veſſel to the bottom and its neither ends, then it is call'd Diſtillation and Deſcenſion.</p>
+               <p n="10">10. And when by its very much Aſcen<g ref="char:EOLhyphen"/>ſion it begins to putreſie, then it begins to be coagulated alſo, and is called Pu<g ref="char:EOLhyphen"/>trefaction and Coagulation.</p>
+               <p n="11">11. But when at length [the Humidity of its radical Moiſture being exhauſted] it begins to be calcined and fixed; It is called Calcination and Fixation.</p>
+               <p n="12">
+                  <pb n="33" facs="tcp:41668:34"/>12. And all this <hi>uno Actu,</hi> by decoct<g ref="char:EOLhyphen"/>ing them at one time altogether in one Veſſel, and on one Furnace, (as has been often ſaid before.)</p>
+               <p n="13">13. And thus Sublimation being made a true Separation of the Elements is made alſo.</p>
+               <p n="14">14. For, as the Philoſophers ſay, the Operation of the Stone is nothing elſe than the Separation of the Elements and their Conjunction.</p>
+               <p n="15">15. Whereas in our Sublimation the aqueous, frigid and humid Elements are tranſmuted into earthly, dry and warm Elements.</p>
+               <p n="16">16. From which may be obſerved that the Separation of the Four Elements in the Stone, is not vulgar but Phyſical.</p>
+               <p n="17">17. Becauſe our Sublimation being fi<g ref="char:EOLhyphen"/>niſhed, the Elements (as was told you be<g ref="char:EOLhyphen"/>fore) are perfectly ſeparated.</p>
+               <p n="18">18. Yet in our Stone there are only two formal Elements,
+<hi>viz.</hi> Earth and Wa<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="19">19. Earth, which virtually contains Fire in its ſelf by reaſon of its drineſs, as Water contains in like manner Air in its ſelf, by reaſon of its Humidity or Moiſtneſs.</p>
+               <p n="20">
+                  <pb n="34" facs="tcp:41668:35"/>20. It may further be obſerved then, that in our Stone there are but two for<g ref="char:EOLhyphen"/>mal Elements, though there be four vir<g ref="char:EOLhyphen"/>tually.</p>
+               <p n="21">21. Therefore there is not a Separati<g ref="char:EOLhyphen"/>on of Four Elements, as Fools and Ideots conceive.</p>
+               <p n="22">22. There is a certain hidden Secret in our matter, whoſe Work and Virtue is perceived, <hi>viz.</hi> Earth and Water. But the other two, <hi>viz.</hi> Air and Fire, are not perceived; [<hi>nec quicquam largiuntur</hi>] nor can their reſiding place be ſeen no more than their Vertue, as in the other two E<g ref="char:EOLhyphen"/>lements of Earth and Water.</p>
+               <p n="23">23. Becauſe in their Decoction the Fire changes the Colours. Lo! By the Grace of God thou haſt the ſecond Element in the Philoſophers Stone, which is Black Earth, the <hi>Crows Head,</hi> the Mother, Heart and Root of them, upon which Earth, as upon the Ground, all other are poured.</p>
+               <p n="24">24. Which earthly and dry Element, tho in the Books of the Philoſophers going by many Names, [as being by ſome called
+<hi>Laton,</hi> the <hi>Bull, Faex nigra,</hi> our <hi>Braſs</hi> or
+<hi>Aes,</hi> our <hi>Mony, Black Sulphur, Maſculine, Man,</hi> and infinite many others] yet is one and the ſame thing, having its Origi<g ref="char:EOLhyphen"/>nal
+<pb n="35" facs="tcp:41668:35"/>from one and the ſame thing.</p>
+               <p n="25">25. By ſuch a Privation therefore of Humidity, which is cauſed by Sublimati<g ref="char:EOLhyphen"/>on, the Volatile is made Fixed, the Soft Hard, and the Water Earth.</p>
+               <p n="26">26. And as <hi>Geber</hi> ſays, <hi>The Mutation of Nature into Nature, alſo a change of Complex<g ref="char:EOLhyphen"/>ions is made; for the cold and moist Com<g ref="char:EOLhyphen"/>plexion is converted into Cholerick and dry, becoming alſo Spiritual, Corporeal and Li<g ref="char:EOLhyphen"/>quid, Thick, and ſo on the contrary.</hi>
+               </p>
+               <p n="27">27. Therefore the Philoſophers ſay wiſely, when they ſay, the Operation of our Stone is nothing elſe but the permu<g ref="char:EOLhyphen"/>tation of Nature and Revolution of Ele<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="28">28. For by ſuch an Incorporation we change the moiſt and volatile into fixed, the ſpiritual into corporeal, and the liquid into thick, the watry into fiery, and the aery into earthly.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="36" facs="tcp:41668:36"/>
+               <head>CHAP. II. <hi>Of the Second Preparation.</hi>
+               </head>
+               <p n="1">1. NOw therefore by the Bleſſing of God, we having finiſhed the Firſt Preparation, I will plainly declare the manner to bring the Black into White<g ref="char:EOLhyphen"/>neſs.</p>
+               <p n="2">2. ℞ therefore that fixed Black Earth which is call'd the Crows Head, and grind it ſmall <hi>(in porphyrio mundiſſimo,)</hi> into Two parts.</p>
+               <p n="3">3. To which add part of the Reſer<g ref="char:EOLhyphen"/>ved Philoſophick Water which you know.</p>
+               <p n="4">4. Conjoyn theſe Three into One Ma<g ref="char:EOLhyphen"/>trimonially, upon the clean Stone, by ſtirring them very well together, that they may be perfectly conjoyned; ſo that all may return into one confuſed Chaos, as into One Body inſeparably.</p>
+               <p n="5">5. Then put it wiſely into its adop<g ref="char:EOLhyphen"/>ted Viol, and lay it up in its Bed, that it may be coagnlated and fixed, and be<g ref="char:EOLhyphen"/>come one intire white Body.</p>
+               <p n="6">6. VVhich being done, take the white Stone out again, and bring it into a ſmall Powder, and again with a Third part of
+<pb n="37" facs="tcp:41668:36"/>its Water, imbibe often, that its Drought may be took away.</p>
+               <p n="7">7. And again put it in its clear and clean Veſſel, in its warm and temperate Bed, that it may begin again to Sweat.</p>
+               <p n="8">8. Its Water being again dryed up, put more to it, and reiterate, ſo doing ma<g ref="char:EOLhyphen"/>ny times, until this white Stone becomes by Reiteration after this manner, moſt excellent, fixed, ſtanding and piercing through the moſt ſimple Body.</p>
+               <p n="9">9. Moſt ſwiftly flowing, and perfectly tinging all imperfect Bodies into purer Gold and Silver than is naturally made.</p>
+               <p n="10">10. And obſerve, that the oftener you repeat its Solutions, Coagulations, Con<g ref="char:EOLhyphen"/>tritions and Aſſations, of the greater vir<g ref="char:EOLhyphen"/>tue and force will the Medicine be.</p>
+               <p n="11">11. For by how much the oftner you apply its reſerved proper excellency up<g ref="char:EOLhyphen"/>on the Stone, by ſo much the Richer you make it, for Projecting on all Imperfect Bodies.</p>
+               <p n="12">12. For at the firſt going over of this Medicine, One part of it will convert an Hundred parts of any imperfect Body into pure Silver.</p>
+               <p n="13">13. At the Second Reiteration, it will tranſmute a
+1000, at the Third, 10000,<pb n="38" facs="tcp:41668:37"/>at the Fourth a Thouſand Thouſand, and ſo <hi>uſque ad infinitum.</hi>
+               </p>
+               <p n="14">14. Therefore Wiſe Men do not Fooliſh<g ref="char:EOLhyphen"/>ly in commending Reiteration.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of the White King.</hi>
+               </head>
+               <p>THerefore thus order this glorious Stone, this white King, (who transforms and tranſmutes, ☿ and, all other imperfect Metals into Silver;) if of it you would make the Red Elixer, which tranſmutes ☿ and <g ref="char:Moon">☽</g> and every Body into moſt Pure Gold.</p>
+               <p n="2">2. ℞ That White Stone, and divide it into Two Part, one part you ſhall aug<g ref="char:EOLhyphen"/>ment for the Elixir White, as was ſaid before, with its reſerved White Water, which will never loſe its tincture and virtue.</p>
+               <p n="3">3. The other part put in another Phi<g ref="char:EOLhyphen"/>loſophick, Clean, Bright and ſhining Bed, in a Digeſting Furnace, and it will be converted into a Red Powder, which the Philoſophers call their Blood-colour,
+<pb n="39" facs="tcp:41668:37"/>Powder, their Purple Gold, their Red Corral, and their Red Sulphur, with which you may project on ♄, and any other Metal, as the Praxis will teach you.</p>
+            </div>
+            <div type="axioms">
+               <head>CHYMICAL AXIOMS.</head>
+               <div n="1" type="axiom">
+                  <head>I.</head>
+                  <p>ALchymy is one of the Sublimeſt Sci<g ref="char:EOLhyphen"/>ences which imitates Univerſal Na<g ref="char:EOLhyphen"/>ture; nay, which in ſome things excels Na<g ref="char:EOLhyphen"/>ture.—Nature indeed furniſhes with Mat<g ref="char:EOLhyphen"/>ter, but Art operates in ſuch a manner upon that Matter, as is impoſſible for Nature.</p>
+               </div>
+               <div n="2" type="axiom">
+                  <head>II.</head>
+                  <p>Nature has diſpoſed a certain Matter, containing in its ſelf whatſoever is neceſ<g ref="char:EOLhyphen"/>ſary for the converting all imperfect Me<g ref="char:EOLhyphen"/>tals into pure Gold and Silver. If that ſaid Matter be Decocted and Fermented according to Art, which its impoſſible for Nature to do; Nature therefore has brought forth nothing impoſſible to be equall'd.</p>
+               </div>
+               <div n="3" type="axiom">
+                  <head>III.</head>
+                  <p>But there is in that Matter a Maſcu<g ref="char:EOLhyphen"/>line and Feminine,
+<hi>viz.</hi> Gold and Silver,<pb n="40" facs="tcp:41668:38"/>a light and eaſie work to whom the Al<g ref="char:EOLhyphen"/>mighty God is pleaſed to reveal it. Tranſ<g ref="char:EOLhyphen"/>mutation is poſſible and eaſie; for all things that are and increaſe, can be Mul<g ref="char:EOLhyphen"/>tiplied, as Men, Trees, Grain, and ſuch like.</p>
+               </div>
+               <div n="4" type="axiom">
+                  <head>IV.</head>
+                  <p>For as from one Grain, a Thouſand are generated, ſo from
+<hi>Adam</hi> the Firſt Man on Earth, is the World increaſed to what it is,
+<hi>&amp;c.</hi> Therefore 'tis poſſible to increaſe Matter to infinity.</p>
+               </div>
+               <div n="5" type="axiom">
+                  <head>V.</head>
+                  <p>The Philoſophers affirm, that the Stone conſiſts of a Body, Soul and Spirit; they comparing an imperfect Body to a Body Perfoct, and call its Water a Spirit, and that rightly, becauſe, by that Water is the Dead Body vivified and made alive, which before it was not, and brought into a far better form.</p>
+                  <p>For firſt by our Magiſtery, we make Groſs Slender, (<hi>i. e.</hi> the Body a Spirit,) Humid we make Dry; Water, Earth. And thus we change Nature, and make Superior Inferior; which is effected when the Spirit is made a Body, <hi>&amp; vice ver<g ref="char:EOLhyphen"/>ſa.</hi>
+                  </p>
+               </div>
+               <div n="6" type="axiom">
+                  <pb n="41" facs="tcp:41668:38"/>
+                  <head>VI.</head>
+                  <p>Our Stone is made from one only thing, in one only Veſſel, for our whole Magiſtery is made with, from and by our Water, which Water is ſo powerful, as to bring Bodies into <hi>(cineres,)</hi> Aſhes, Coals or Cinders, and then Whitens them.</p>
+               </div>
+               <div n="7" type="axiom">
+                  <head>VII.</head>
+                  <p>Azot and Fire (ſays <hi>Morienus,</hi>) purge Laton, for Laton is a very pure Body, but Azot is <hi>Argent-vive,</hi> that is our Se<g ref="char:EOLhyphen"/>cret Water, our Water is our Fire, and Quinteſcence, or the form of our Mat<g ref="char:EOLhyphen"/>ter. Now Matter is the <hi>principium</hi> of <hi>Perpeſſion,</hi> but Form of Action; therefore by how much the more formal any thing is, by ſo much the more efficacious it is; and by how much the more material any thing is, by ſo much the more unfit to be worked upon.</p>
+                  <p>But Incorporeal Forms are not like Spiritual ones; 'tis no wonder then that a Spirit, a little <hi>Moles</hi> ſhould be ſo ſtrong and efficacious. Thus Angels by how much the more immaterial, by ſo much the more efficacious. As a great Vegetable amongſt other things, abounds with that Spirit or Quinteſſence, ſo our<pb n="42" facs="tcp:41668:39"/>Mineral Chaos abounds with the Form of all Minerals and Metals.</p>
+               </div>
+               <div n="8" type="axiom">
+                  <head>VIII.</head>
+                  <p>Which Form thus drawn forth from the Chymical Chaos, is endowed with ſo great ſtrength and virtue, that it pre<g ref="char:EOLhyphen"/>ſently diſſolves like Ice in Hot Water, Gold, Silver, Corral and Jewels. Nay, of ſuch great virtue is it, preſerving the Radical moiſture of the Body ſo won<g ref="char:EOLhyphen"/>derfully, that <hi>Raymund Lully</hi> by the uſe thereof, when he was Slain by the <hi>Sar<g ref="char:EOLhyphen"/>racens,</hi> (being full One Hundred and Fifty Years of Age,) was as Nimble and able to perform any thing as a Young Man; it being took inwardly every Day without intermiſſion.</p>
+               </div>
+               <div n="9" type="axiom">
+                  <head>IX.</head>
+                  <p>
+                     <hi>Aros</hi> the Philoſopher ſays, that the Water or Spirit of the Stone is all in all, and is the only thing ſought after, and requiſite for this Work; for in it is the flying and fixed, the tinging and tinged, the white and red, Maſculine and Feminine compoſed together by an inſeparable Compoſition. <hi>Lully</hi> ſays, the Spirit is the firſt principal Secret, the Water the next, from which Two things every thing receives its Nutriment, and every Tree, Sprout and Herb its Vege<g ref="char:EOLhyphen"/>tation,
+<pb n="43" facs="tcp:41668:39"/>and every Light its Illumina<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div n="10" type="axiom">
+                  <head>X.</head>
+                  <p>This Water carries Life, Light and Spirit with it; but why does <hi>Lully</hi> call the Water the Second principal Secret,
+<hi>&amp;c.</hi> whom the other Philoſophers call the Oyl? The reaſon is, becauſe it is drawn in the Second place after the Spirit; the Oyl is nothing elſe than the Radical, Pure and incombuſtible humidity of Me<g ref="char:EOLhyphen"/>tals, in which does moſt eſpecially conſiſt the Metallick Eſſence and Form,
+<hi>(&amp; niſi totum compoſitum aqua fiat, pulvis non erit fuſibilis, nec ingreſſum habebit,)</hi> to which VVater the whole is reduced, by a mo<g ref="char:EOLhyphen"/>derate and continual Humid Heat.</p>
+               </div>
+               <div n="11" type="axiom">
+                  <head>XI.</head>
+                  <p>Know then, that the Elements are not divided in our Stone in Subſtance, but well in Virtue; for no pure and ſimple Element is conſpicuous but in its own Sphere: Know then, that unleſs you ſublime the Body, until it becomes VVater, it can<g ref="char:EOLhyphen"/>not be congealed, unleſs by Fire; for Fire congeals the commixion of our Stone.</p>
+               </div>
+               <div n="12" type="axiom">
+                  <head>XII.</head>
+                  <p>VVe Diſſolve the Bodies, that Heat may cleave to the depth of them, and ſo<pb n="44" facs="tcp:41668:40"/>Fire alone changes VVater and Earth from their Nature and Colour. I knew a Man who could with Three Simples, make an equal Fire to laſt for Seven Years, without once going out, and this without any Addition of Fuel. This is very neceſſary for you in this Art.</p>
+               </div>
+               <div n="13" type="axiom">
+                  <head>XIII.</head>
+                  <p>VVe want therefore ſuch a Fire for our work, for by that we might fully perfect the work; our VVater is our Veſſel, and our Fire it's our <hi>Mercury-vive,</hi> and <hi>Ar<g ref="char:EOLhyphen"/>gent-vive</hi> of the Philoſophers: But the principal Matter of all Metals in their Mines from which they themſelves are generated and cauſed, is <hi>Aqua ſicca,</hi> Dry VVater, which we call
+<hi>Aqua<g ref="char:EOLhyphen"/>vive,</hi> or
+<note n="*" place="margin">And others <hi>Spiritus Foe<g ref="char:EOLhyphen"/>tens,</hi> which we call Sul<g ref="char:EOLhyphen"/>phur.</note> 
+                     <hi>Argent-vive;</hi> yet they are not procreated in their Nature, as in their Mi<g ref="char:EOLhyphen"/>nerals: For in their Places where they are generated, no Metal is to be found. But that Matter is a certain ſubſtance produced from Na<g ref="char:EOLhyphen"/>ture naturally, having in it ſelf the ſub<g ref="char:EOLhyphen"/>ſtance of them both; and from ſuch a ſubſtance is produced or generated a cer<g ref="char:EOLhyphen"/>tain Subtile ſubſtance, ſmoaky, in the Bowels of the Earth, and Veins of Mi<g ref="char:EOLhyphen"/>nerals, where it is congregated and de<g ref="char:EOLhyphen"/>tain'd.
+<pb n="45" facs="tcp:41668:40"/>Now that firſt Matter from which that aforeſaid fumous or ſmoaky Matter is generated and proceeds, is a certain Body, and thoſe Fumes generated from it, is a certain Spirit; and thus Na<g ref="char:EOLhyphen"/>ture makes a Spirit of a Body, and cauſes to aſcend from Earth to Heaven; <hi>i. e.</hi> it makes a Corporeal thing, a Spiritual ſubſtance. There is a certain proper ſubſtance or matter of <hi>Argent-vive</hi> and Sulphur, very ſubtile and fumous from the nature of the aforeſaid things, of a very bright and clear ſubſtance, generated by our ingenuity like Tears, in which lurks our Quinteſſence. Some ſay our Stone is made of <hi>Argent-vive</hi> alone, without the ad<g ref="char:EOLhyphen"/>mixion of Sulphur; they ſay right, and underſtand Art, for in Diſtillation the Sulphur aſcends and mingles it ſelf with the
+<hi>Argent-vive,</hi> and in Putrefaction the VVater becomes red and tingent, and is condenſed by a little heat, and the Earth again becomes Oyl, from which Oyl, Al<g ref="char:EOLhyphen"/>cohol, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="14" type="axiom">
+                  <head>XIV.</head>
+                  <p>'Tis to be noted, that the Philoſophers call that
+<hi>Argent-vive</hi> and Sulphur, on which Nature pours out its action and operation. The Stone is one thing, one Medicine, in which conſiſts the whole<pb n="46" facs="tcp:41668:41"/>Magiſtery. Heat is the Agent and Mover to Corruption, and there is no other A<g ref="char:EOLhyphen"/>gent in the VVorld; the Radical Funda<g ref="char:EOLhyphen"/>ments or Principiums of this Famous Science, upon which they themſelves are founded, are theſe that follow, <hi>viz.</hi> a cer<g ref="char:EOLhyphen"/>tain proper Matter or Subſtance of <hi>Ar<g ref="char:EOLhyphen"/>gent-vive</hi> and Sulphur, generated by our Magiſtery, very pure and bright, in which lies hid the Quinteſſential Spirit.</p>
+               </div>
+               <div n="15" type="axiom">
+                  <head>XV.</head>
+                  <p>Every Individual multiplies the form of its own Species, and not of another; and therefore the firſt form of its Body being Diſſolved, it is converted into <hi>Ar<g ref="char:EOLhyphen"/>gent-vive;</hi> by Elementation, in Colour Blackiſh, in Smell Faetid, and in Touch Subtile and Diſcontinuing.</p>
+               </div>
+               <div n="16" type="axiom">
+                  <head>XVI.</head>
+                  <p>In ſuch a Matter then are contained Four Compounded, Separable and Reſo<g ref="char:EOLhyphen"/>luble Elements, in Water of <hi>Argent-vive</hi> after Putrefaction; therefore Mercurial Water is the firſt Matter of all Metals; and with it we Diſſolve all Metals which cannot be Diſſolved into other things. Now if ſo be the Metals were not Diſſolved into their firſt Matter, you would not gain what you expect by that Mercurial Water.</p>
+               </div>
+               <div n="17" type="axiom">
+                  <pb n="47" facs="tcp:41668:41"/>
+                  <head>XVII.</head>
+                  <p>By Heat all the Elements in the Work are diſcerned; for whereas there are (as 'twas ſaid before,) but two for<g ref="char:EOLhyphen"/>mal Elements, perceived in the Art, yet there are virtually four; for in the Wa<g ref="char:EOLhyphen"/>ter is contain'd Air, and in the Earth Fire.</p>
+               </div>
+               <div n="18" type="axiom">
+                  <head>XVIII.</head>
+                  <p>The Qualities of the Sulphur are com<g ref="char:EOLhyphen"/>mixed by Digreſſion with this <hi>Argent-vi<g ref="char:EOLhyphen"/>ve,</hi> and therefore it is to be altered as Nature requires; it is converted and congeal'd into Sulphur, and by vertue of its own Heat, and by the converſion of its own nature.</p>
+               </div>
+               <div n="19" type="axiom">
+                  <head>XIX.</head>
+                  <p>Whatſoever truth is conſiſtent in the Chymical Art, is to joyn and conjoyn the Moiſt with the Dry, and this is ap<g ref="char:EOLhyphen"/>proved by all the Philoſophers: But un<g ref="char:EOLhyphen"/>derſtand by the Moiſt, the Spirit well cleanſed from all Droſs; by the Dry, underſtand the perfect, pure, calcined Body; and believe me, the Operation conſiſts in the Diſſolution and Coagulation of theſe Two Parts. Now to Diſſolve, is to convert the Body into the Nature of a Spirit. But to Coagulate, is ſo to o<g ref="char:EOLhyphen"/>perate on the Corporeal Spirit, as to<pb n="48" facs="tcp:41668:42"/>make the Fixed Volatile, and the Vola<g ref="char:EOLhyphen"/>tile Fixed; by doing of which, you will obtain the Magiſtery; but diligently take care, leſt you mingle the Impure Mercu<g ref="char:EOLhyphen"/>rial Water with the pure Body. Azot, that is, the Mercurial Water, together with the Fire waſh clean; and Mundify the Laton, that is, the Black Earth, for the preparation of the Earth is always with the Water. Therefore let not your often repeated Contritions and Aſ<g ref="char:EOLhyphen"/>ſations weary you, for 'tis a natural action which h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> motion'd and deter<g ref="char:EOLhyphen"/>min'd time; for ſometimes it is finiſhed in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> leſſer time, ſometimes it requires more time, becauſe in Putrefaction there can be no certain determin'd time, be<g ref="char:EOLhyphen"/>ing according as the Artificer labours thereon. A Philoſopher ſays, that in Decoction a Fourth part of the Body is Diminiſhed, and we have experienced it to be true. Note, that you ought to have a great care, leſt in the impoſition of the Imbibition of Black Earth with the Mercury, the Veſſel break or crack not; from which Caution you may ob<g ref="char:EOLhyphen"/>ſerve, that the Water ought to be warm, and ſo ought the matter; <hi>i. e.</hi> the Earth, which when put together in the Veſſel, ſhould be well ſhaken together<pb n="49" facs="tcp:41668:42"/>in your Hand, for otherwiſe the Mat<g ref="char:EOLhyphen"/>ter will ſtick to the Sides of the Veſſel; therefore do as aforeſaid, till the Mat<g ref="char:EOLhyphen"/>ter being well mixed, becomes of the conſiſtency of Mud, <hi>&amp;c.</hi> and then the Veſſel ought to be well cloſed up, and put in warm Aſhes, that the Water therein put, may be Dryed up again into it; on which warm Aſhes let it re<g ref="char:EOLhyphen"/>main, till it become a Dry Powder, which will be in Twenty Five or Thirty Days Natural.</p>
+               </div>
+               <div n="20" type="axiom">
+                  <head>XX.</head>
+                  <p>Now having this Dry Earth or Pow<g ref="char:EOLhyphen"/>der, put upon it Six or Seven parts of Mercury, that therein the Powder may be Diſſolved; then cloſe the Mouth of the Glaſs very well Hermetically; then Dry and Congeal on Aſhes with a gentle Heat; which Congelation and Solution reiterate Four times, and you will have this Earth fixed and black; which being broke in Two, the Fractures will glitter. If you will take the Mineral Elements, take not of the Firſt, nor Laſt, but Middle. To make the Stone, having the Matter by you, Diſſolve it in its own proper Veſſel, by a moiſt Heat; which being done, the Earth will be Convert<g ref="char:EOLhyphen"/>ed into clear Water, and then into
+<pb n="50" facs="tcp:41668:43"/>Earth again; the Earth will be turned into Oyl, and the Oyl will become an incombuſtible, fuſible Powder, and all this by one only Regimen; which is call'd Womens Work and Children's Play.</p>
+               </div>
+            </div>
+            <div type="instruction">
+               <head>OF FERMENTATION.</head>
+               <p>NOthing can be made from a per<g ref="char:EOLhyphen"/>fect Body, becauſe it is already per<g ref="char:EOLhyphen"/>fect. As for inſtance, Fermented or Le<g ref="char:EOLhyphen"/>vened and Baked Bread is perfect in its ſtate, being come to its full period of Perfection, nor can you any more Leven it.</p>
+               <p n="2">2. Thus it is in Gold: The White and Red proceed from one only Radix, no other thing of a Diverſe Genus in<g ref="char:EOLhyphen"/>tervening.</p>
+               <p n="3">3. We take therefore that matter from whence Gold is produced; which by the help of an Artiſt, is brought into the true ferment of Philoſophers.</p>
+               <p n="4">4. Therefore mingle not the White Water with the Red, or
+<hi>vice verſa.</hi>
+               </p>
+               <p n="5">5. Yet the White and Red both pro<g ref="char:EOLhyphen"/>ceed from one and the ſame Radix, no<g ref="char:EOLhyphen"/>thing of an other kind intervening.</p>
+               <p n="6">
+                  <pb n="51" facs="tcp:41668:43"/>6. Therefore our Stone is by the Phi<g ref="char:EOLhyphen"/>loſophers deſervedly call'd every thing, becauſe it has in it ſelf, and by it ſelf, every thing neceſſary for its own Per<g ref="char:EOLhyphen"/>fection; and by whatſoever Name it is call'd, is always one and the ſame thing.</p>
+               <p n="7">7. Put it in the Veſſel, and firmly cloſe, until you have compleated the whole Magiſtery.</p>
+               <p n="8">8. When you ſee the Water congeal it ſelf, then be ſatisfied that the Science is true.</p>
+               <p n="9">9. If you can but hit at the right De<g ref="char:EOLhyphen"/>gree of Heat, the Water and Fire will be ſufficient for you.</p>
+               <p n="10">10. For its White and Red Effects, conſiſts in the Regimen of Fire.</p>
+               <argument>
+                  <p>
+                     <hi>Here ends the Chymical Axioms; though we have omitted various things, to hinder Prolixity.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="dialogue">
+               <pb n="52" facs="tcp:41668:44"/>
+               <head>
+                  <hi>The Dialogue of <hi>Ariſlaus,</hi> a very an<g ref="char:EOLhyphen"/>tient Philoſopher, concerning the Phi<g ref="char:EOLhyphen"/>loſophers Stone; (a Work never be<g ref="char:EOLhyphen"/>fore Publiſh'd).</hi>
+               </head>
+               <p n="1">1. IN the Name of God, <hi>Amen.</hi> Know my Dear Son, that before the Crea<g ref="char:EOLhyphen"/>tion of the World, the Spirit of the Lord reſted upon the Waters.</p>
+               <p n="2">2. Afterwards all things were created from Water.</p>
+               <p n="3">3. This Water did God divide when he commanded part of the Water to become Dry, which he called Land; the other part not converted to Land, called he Water ſtill.</p>
+               <p n="4">4. Which he preſerved in the ſame Eſtate it was at firſt, that it might be ſerviceable to the Dry Land in VVater<g ref="char:EOLhyphen"/>ing it,
+<hi>&amp;c.</hi> For the Earth cannot or will not yield its Fruits, unleſs moiſtned by the VVaters of its Rivers.</p>
+               <p n="5">5. Now in this Diſcourſe of mine, will I manifeſt to thee the natural con<g ref="char:EOLhyphen"/>dition of the Stone of Philoſophers, ap<g ref="char:EOLhyphen"/>parel'd
+<pb n="53" facs="tcp:41668:44"/>with a Triple Garment, even this Stone of Riches and Charity, the Stone of Relief from Languiſhment.</p>
+               <p n="6">6. In which is contain'd every Secret, being call'd a Divine Myſtery and Gift of God, than which there is nothing in this World more ſublime.</p>
+               <p n="7">7. Therefore diligently obſerve what I ſay,
+<hi>viz.</hi> That 'tis apparel'd with a triple Garment, that is to ſay, with a Body, Soul and Spirit. Now that this Body may be revived, give it its Soul, and it will live.</p>
+               <p n="8">8. <hi>Schol.</hi> Good Maſter, I cannot under<g ref="char:EOLhyphen"/>ſtand your Expreſſions, being too obſcure for me to comprehend—For whereas at firſt you told me of but one Stone, now you tell me there's three,
+<hi>viz.</hi> a Corporeal, Animal and Spiritual. Now if there is but one Stone, how can there be three?</p>
+               <p n="9">9. <hi>Maſt.</hi> O my Son, remove that Cloud of Ignorance from you, and underſtand the Truth—You are to underſtand that when I ſaid there was but one Stone, I meaned, that there is but one thing of which it is made: Now when this Body is reduced into its firſt matter, <hi>viz.</hi> into a Water full of Waves, then 'tis call'd one
+<pb n="54" facs="tcp:41668:45"/>thing, and a Phyſical Root, from which infinit Boughs are produced.</p>
+               <p n="10">10. It is alſo call'd a Stone, known to the principal Philoſophers who have it; therefore from that Stone, <hi>viz.</hi> White and Red Earth, its Soul is extracted by Separation and Sublimation, that is, Sub<g ref="char:EOLhyphen"/>tiliation.</p>
+               <p n="11">11. <hi>Schol.</hi> Is then Sublimation, which is Subtiliation, abſolutely neceſſary in this Work?</p>
+               <p n="12">12. <hi>Maſt.</hi> Know my Son, that our Sublimation is not common Sublimation, but Philoſophick; for our Sublimation is no other than Subtiliation, after ſuch a manner, that the Superfluities of our Stone in Sublimation are remov'd, ſepara<g ref="char:EOLhyphen"/>ting the non-fixed parts, and converting them into Fume and Smoak from the Fix<g ref="char:EOLhyphen"/>ed. But this muſt be done with Wiſ<g ref="char:EOLhyphen"/>dom.</p>
+               <p n="13">13. He then that rightly Sublimes Sub<g ref="char:EOLhyphen"/>tilizes, and ſo his Work is ended.</p>
+               <p n="14">14. <hi>Schol.</hi> But, Sir, I have often heard you ſay, that the Elements muſt be ſe<g ref="char:EOLhyphen"/>parated <hi>per modum ſeparationis,</hi> after the manner of Separation.</p>
+               <p n="15">15. <hi>Maſt.</hi> Know, my Son, that all this is done in this our Sublimation, for it perfectly ſeparates the Elements, becoming
+<pb n="55" facs="tcp:41668:45"/>then a certain white Stone of three Ele<g ref="char:EOLhyphen"/>ments,
+<hi>viz.</hi> of Earth, Water that is Mer<g ref="char:EOLhyphen"/>cury, and of a Soul.</p>
+               <p n="16">16. And know that <hi>Faex,</hi> that is Earth, is the Root and true Ferment, and is call'd the Nurſe of all the Elements. Aer, that is the Soul, is penetrating. The Spi<g ref="char:EOLhyphen"/>rit, that is Mercury, is <hi>portans.</hi> And ſo you may reckon our Sublimation, which is Subtiliation, and they are called Ele<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="17">17. But that you may better under<g ref="char:EOLhyphen"/>ſtand me, our Earth fixes the Spirit, that is its Ferment the Mercury; Air, that is its Soul, penetrates. It's Spirit, that is Mercury, cleanſes and waſhes it from its Impurity. <hi>v. g.</hi>
+               </p>
+               <p n="18">18. When Water rains from Heaven upon Earth, then begins the matter to change Black, which from the decoction of its Sun (<hi>that is,</hi> its Fire) that Water (that is, its Spirit) is dryed up, and ſo it becomes white Earth. Thus it is in our Work.</p>
+               <p n="19">19. But there are but very few, my Son, that underſtand that Subtilation; therefore they labour in vain who under<g ref="char:EOLhyphen"/>ſtand it not.</p>
+               <p n="20">20. <hi>Schol.</hi> Tell me, moſt Learned Sir, can this Work be done from beginning to<pb n="56" facs="tcp:41668:46"/>the End, on one Furnace, and in one Glaſs?</p>
+               <p n="21">21. <hi>Maſt.</hi> As for that, my Son, its ac<g ref="char:EOLhyphen"/>cording to the Quantity of matter you have at Work; if you have much mat<g ref="char:EOLhyphen"/>ter, then it cannot be contained in one Veſſel, but many. If you do a mean Quantity, one Veſſel and one Furnace will ſuffice for our Sublimation, <hi>i.e.</hi> Sub<g ref="char:EOLhyphen"/>tiliation, Coagulation, Fixation, Incera<g ref="char:EOLhyphen"/>tion, Solution, and white and red Tin<g ref="char:EOLhyphen"/>cture.</p>
+               <p n="22">22. <hi>Schol.</hi> I am not a little cheer'd with what you have already ſaid to me, having for a long time ſought after it, but never made Tryal—But, good Sir, your kindneſs emboldens me to de<g ref="char:EOLhyphen"/>ſire the method of conjoyning the Ele<g ref="char:EOLhyphen"/>ments again; for I muſt needs confeſs I neither underſtand aright Separation or Conjunction.</p>
+               <p n="23">23. <hi>Maſt.</hi> I will very willingly anſwer you, therefore mind what I ſay, and con<g ref="char:EOLhyphen"/>ceal it.</p>
+               <p n="24">24. After you have ſeparated the Spirit and Soul from its Body (underſtand the Aerial Eſſences) then return the quanti<g ref="char:EOLhyphen"/>tative Form to its firſt Principle, after the manner of Union, and immediately
+<pb n="57" facs="tcp:41668:46"/>the Body will receive its Soul as Nature will receive Nature.</p>
+               <p n="25">25. Then proceed to its Regimen, and imbibe its Water ſo long, till its Earth or Quinteſſence flow atop, and has drunk up its Water; then mayſt thou command its Earth to encreaſe.</p>
+               <p n="26">26. <hi>Schol.</hi> Thanks, good Sir, I deſire further to know, whether preſently af<g ref="char:EOLhyphen"/>ter that Earth, which you call its Quin<g ref="char:EOLhyphen"/>teſſence, has flowed atop, it will tinge?</p>
+               <p n="27">27. <hi>Maſt.</hi> I'll ſatisfie your Deſire, Son: That Confluction which is called the Quinteſſence is a ſimple Body, which contains not the Motions of the Ele<g ref="char:EOLhyphen"/>ments, as other Elementary Bodies do. The reaſon is, becauſe that Body of the Elements is called the Super-addition, as being extracted from them. If you would arrive to the perfection of the Elixir, ſo that it may be of ſuch great Power as to tranſubſtantiate every thing conjoyned to its ſelf, you muſt by no means do ſo, unleſs by often repeating its Solution.—Such is the manner of our Solu<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="28">28. After our Stone is by vertue of our Fire become moſt pure and white, and without any Droſs, then convert it into a ſubtile Powder in one Stone, and diſ<g ref="char:EOLhyphen"/>ſolve<pb n="58" facs="tcp:41668:47"/>with our moſt Bright and Coeleſtial Vinegar.</p>
+               <p n="29">29. Then is it diſſolved into a moſt clear, phyſical, and (as it were) Foun<g ref="char:EOLhyphen"/>tain Water. Then after our Stone is thus diſſolved, diſtil according to our way of Diſtillation, and coagulate in the Fire by a gentle Heat.</p>
+               <p n="30">30. And laſtly, after Coagulation, calcine as it ought, as I have often told you; and know that in the firſt Diſſoluti<g ref="char:EOLhyphen"/>on of the Stone, one part converts an hundred parts into pure Gold. And this is our Solution, the Secret of Secrets.</p>
+               <p n="31">31. <hi>Schol.</hi> Loving Maſter, how great are the Works of God! And how gra<g ref="char:EOLhyphen"/>cious is he to beſtow ſuch Gifts on his Children! For me, I cannot but give you eternal Thanks, who am by your Inſtruction brought to the end of the Work. I have no need now any more to be ſad, for my Heart is repleniſh'd with all Joy. I muſt needs confeſs how very much they err, who go not this way to work; for ſome work on Salts, Aloms, Borax Hair, Urine, Sheeps Blood, on <hi>A<g ref="char:EOLhyphen"/>qua fortis,</hi> on Spirits extracted from Gold, Arſneck, Magneſia, Aurapigment, Hony, Fats, <hi>&amp;c.</hi> Nor can I but pity them, know<g ref="char:EOLhyphen"/>ing that I my ſelf once work'd on them.
+<pb n="59" facs="tcp:41668:47"/>But now I conſider what you have been pleaſed to ſay,
+<hi>viz.</hi> That the Stone is ex<g ref="char:EOLhyphen"/>tracted alone from the Mercury of the Philoſophers, which Mercury is Phyſical not Vulgar, as that is which is dug out of the Earth. But our Mercury contains a Body, Soul and Spirit, as you, worthy Sir, have taught me at the beginning of this our Diſcourſe. Let me intreat you then to ſatisfie me in one point more, and by your Benignity, I have every thing ſufficient to proceed as I deſire, that is, <hi>viz.</hi> Whether in Multiplication of the Stone, the Stone is not to be begun again from the very beginning, and to be ſo long and tedious a time about as at firſt, or how?</p>
+               <p>
+                  <hi>Maſt.</hi> I will anſwer you to this two ways, Theologically and Phyſically. Firſt, Theologically. In <hi>Geneſis, Chap.</hi> 6. ſays GOD, <hi>Let us make man after our own Si<g ref="char:EOLhyphen"/>militude and image.</hi> But he did not there<g ref="char:EOLhyphen"/>fore create Man alone to increaſe and multiply. No [he did not, nor could he] But to that intent he created a Woman alſo, that retaining the Seed of Genera<g ref="char:EOLhyphen"/>tion they might multiply, till the end of the World. In like manner it is alſo in our Magyſtery, for Sol retains its Sul<g ref="char:EOLhyphen"/>phur (i. e. its Seeed) to generate Gold ac<g ref="char:EOLhyphen"/>cording
+<pb n="60" facs="tcp:41668:48"/>to its Nature, as Luna her Seed, (i. e. her Sulphur) to generate Silver.</p>
+               <p n="33">33. Such is our and the Philoſophers Sulphur, which is not found upon the Earth, unleſs in thoſe Bodies from which it is extracted.</p>
+               <p n="34">34. Our Mercury then is the Fermen<g ref="char:EOLhyphen"/>tation of this Sulphur; for from its Seed is to be had the Fruit of Fer<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="35">35. It's meaſured, and the Fruit there<g ref="char:EOLhyphen"/>of is gathered, and ſo without ceaſing for ever.</p>
+               <p n="36">36. <hi>Schol.</hi> Pray, Sir, let me know more fully.</p>
+               <p n="37">37. <hi>Maſt.</hi> Very willingly, my Son, Thou ſhalt then multiply the Stone after its Multiplication, ℞ its Weight of the extracted Water, and well mix <hi>(de ſer<g ref="char:EOLhyphen"/>vo)</hi> well waſhed of its Regimen, and this without Confluction; and be careful in this Compoſition, leſt it conflux then after Commixion, place wiſely in <hi>Balneo,</hi> (i. e. in a Gentle Heat) then diſſolve all together in the Milky Water, which Wa<g ref="char:EOLhyphen"/>ter is <hi>Lac Virginis,</hi> and <hi>Acetum Philoſopho<g ref="char:EOLhyphen"/>rum;</hi> and let this be done for the ſpace of one Month, and with Diſcretion; then you may permit it to elevate towards the Heavens, and become Volatile.</p>
+               <p n="38">
+                  <pb n="61" facs="tcp:41668:48"/>38. Afterwards that you ſee it Beau<g ref="char:EOLhyphen"/>tified by ſuch an Elevation, command it to deſcend into the Earth, and then it will be a fluid and flowing Stone, <hi>(&amp; hoc in gradu regiminis menſura)</hi> and then will your Stone be multiplied.</p>
+               <p n="39">39. Then divide into two parts, Re<g ref="char:EOLhyphen"/>ſerve one for preſent uſe, the other for augmentation; but firſt of all make the Stone pure and fixed by Aſſention, and the Stone fixed by deſcending into the Earth.</p>
+               <p n="40">40. Then diſſolve the Fixed in pure and clear diſtill'd Vinegar ſo long, until it convert Mercury, and all other imper<g ref="char:EOLhyphen"/>fect Metals into Sol and Lune (much ex<g ref="char:EOLhyphen"/>celling the common ſort) ſo wilt thou have the Honour and Glory of this World, and all obſcurity will fly from thee.</p>
+               <p n="41">41. Therefore, my Son, I beg one thing from thee,
+<hi>viz.</hi> That from thy whole Heart thou love GOD, who hath by me, unworthy of the leaſt of his Mercies, beſtowed the Knowledg of this Magiſtery on Thee.</p>
+            </div>
+            <div type="postscript">
+               <pb facs="tcp:41668:49"/>
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>Reader,</salute>
+               </opener>
+               <p>I advertis'd in my Preface, That if this <hi>Enchi<g ref="char:EOLhyphen"/>ridion</hi> be kindly accepted, <hi>&amp;c.</hi> I would pub<g ref="char:EOLhyphen"/>liſh the Remainder, having already tranſlated it in order thereto, whoſe Title [that you may imagin part of the excellent matter in it con<g ref="char:EOLhyphen"/>tain'd] is, <hi>De Denario Medico,</hi> &amp;c. teaching by only Ten Medicines to cure all internal Diſeaſes,
+<hi>&amp;c.</hi> and a mortal Blow to Negromantick and Cabaliſtical MAGICK; laying open and proving its Inſufficiency to effect, together with its Vanity and Sinfulneſs. In Annotations of that Famous and Learned German Chymical Phy<g ref="char:EOLhyphen"/>ſician <hi>Ber. Penotus,</hi> &amp;c. upon the above-mentioned
+<hi>DENARI<g ref="char:V">Ʋ</g>M:</hi> A Tractate preſented to him for his Approbation,
+<hi>&amp;c.</hi> which for its high Phy<g ref="char:EOLhyphen"/>ſical Excellency was by him [with the Appro<g ref="char:EOLhyphen"/>bation of the moſt Learned Practitioners in Phyſick] publiſh'd many Years ſince in Latin, as 'twas deliver'd to him in <hi>Germany,</hi> both for the Health of the Bodies and Souls of that Nation, <hi>&amp;c.</hi> Together with <hi>Arnoldus</hi> of the Secrets of Phyſick, and Force of the Imagination, <hi>&amp;c.</hi> And <hi>Coſtaben Luca</hi> of Phyſical Ligatures, Inchantati<g ref="char:EOLhyphen"/>ons, Suſpenſions, <hi>&amp;c.</hi> with a little Tractate of Mercurial Waters for ſundry uſes. Prefix'd to which is a Preface concerning <hi>Mercury,</hi> a very pleaſant, learned and profitable Manual, and which will not be above a Sheet, or a Sheet and an half bigger than this. Which Promiſe I [and my Bookſeller I preſume] will perform, if this but anſwers Expectation:</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:41668:49"/>
+            <head>THE INDEX.</head>
+            <list>
+               <item>1. <hi>THE Tranſlator's Preface to the intelligent Reader.</hi>
+               </item>
+               <item>2. <hi>The Author's Preface Dedicatory to</hi> Dr. A. Libavus.</item>
+               <item>
+                  <hi>An Excellent and admirable Balſom of ſingular Vertues.</hi> Page. 1 Receipt. 1</item>
+               <item>
+                  <hi>An Artificial Balſom for all ſorts of Wounds, Swell<g ref="char:EOLhyphen"/>lings, Gun-ſhot not excepted.</hi> Page. 3 Receipt. 2</item>
+               <item>
+                  <hi>An experienced Balſom to heal all deſperate Wounds in
+24 Hours time.</hi> Page. 4 Receipt. 3</item>
+               <item>
+                  <hi>To cure the Frenſie and Delirium.</hi> Page. 5 Receipt.
+4</item>
+               <item>
+                  <hi>For Fooliſhneſs, by want of Sleep.</hi> Page. 6 Receipt. 5</item>
+               <item>
+                  <hi>For Convulſion Fits.</hi> ibid. Receipt. 6</item>
+               <item>
+                  <hi>For the Cramp, or Contraction of the Sinews.</hi> ibid. Receipt. 7</item>
+               <item>
+                  <hi>An excellent Remedy for itching Pimples, Blemiſhes and Wrinkles in the Face.</hi> Page. 7 Receipt. 8</item>
+               <item>
+                  <hi>A moſt approved Remedy for inflamed Eyes, both Running and Dry. As alſo for Eyes that are Blood-ſhot, and for itching of the Eye-lids. A ſingular Remedy.</hi> Page. 8 Receipt. 9</item>
+               <item>
+                  <hi>Another moſt noble Medicine for the ſame.</hi> Page.
+9 Receipt. 10</item>
+               <item>
+                  <hi>To heal a Wound in a ſmall ſpace.</hi> ibid. Receipt.
+11</item>
+               <item>
+                  <hi>A Secret to cure the Dropſie.</hi> ibid. Receipt.
+12</item>
+               <pb facs="tcp:41668:50"/>
+               <item>
+                  <hi>A long experienced Plaſter for old and ſtinking <g ref="char:V">Ʋ</g>lcers and Fiſtulo's, ſeparating the corrupt from the incorrupt.</hi> Page. 10 Receipt. 13</item>
+               <item>
+                  <hi>Another Emplaſter for all bitter Maladies and Tu<g ref="char:EOLhyphen"/>mors.</hi> Page. 11 Receipt. 14</item>
+               <item>
+                  <hi>An admirable Preparation of Camphir to cure cankered and corroſive <g ref="char:V">Ʋ</g>lcers, containing many other rare Properties.</hi> ibid. Receipt. 15</item>
+               <item>
+                  <hi>To cure the Canker.</hi> Page. 12 Receipt. 16</item>
+               <item>
+                  <hi>For a Dyſſentery and deſperate Looſeneſs.</hi> Page. 13 Receipt. 17</item>
+               <item>
+                  <hi>One only excellent Remedy for the Plague.</hi> ibid. Receipt. 18</item>
+               <item>
+                  <hi>For all Impoſthumes, Pluriſies, or any ſuch like Di<g ref="char:EOLhyphen"/>ſtempers,</hi> Page. 16 Receipt. 19</item>
+               <item>
+                  <hi>For the Shingles <hi>[&amp; Formicas]</hi> a moſt experienced Remedy.</hi> ibid. Receipt. 20</item>
+               <item>
+                  <hi>
+                     <hi>Aqua Mirabilis</hi> for curing and expelling the Stone, and Gravel in the Reins.</hi> Page. 17 Receipt. 21</item>
+               <item>
+                  <hi>For an inveterate Megrim.</hi> ibid. Receipt. 22</item>
+               <item>
+                  <hi>For <g ref="char:V">Ʋ</g>lcers in the Lights.</hi> Page. 18 Receipt.
+23</item>
+               <item>
+                  <hi>For Suffocations of the Womb.</hi> ibid. Receipt.
+24</item>
+               <item>
+                  <hi>
+                     <hi>Catholicum Catharticum,</hi> [a great Secret.]</hi> Page. 19 Receipt. 25</item>
+               <item>
+                  <hi>For the Epilepſie.</hi> ibid. Receipt. 26</item>
+            </list>
+            <list>
+               <pb facs="tcp:41668:50"/>
+               <head>PART II.</head>
+               <item>
+                  <hi>THE Author's Epiſtle to <hi>Dr. Tanchio,</hi> &amp;c. An Apologetick Introduction of <hi>Bernardi Penoti à Portu S. Mariae Aq.</hi> in which is evinced both by Reaſon and Authority, the Error and Opinion of <hi>Dr. Nicholai Guiberti Lotharingi</hi> concerning Alchimy,</hi> &amp;c. From p. 1. to p. 25</item>
+               <item>
+                  <hi>The <hi>Practica Mirabilis</hi> for the accompliſhing and obtaining from the beginning to the end the White and Red Elixir, which whoſoever underſtands, need not read any other Book.</hi> From p. 26. to p.
+39</item>
+               <item>Chap. I. <hi>Of the Firſt Preparation.</hi> p. 31</item>
+               <item>Chap. II. <hi>Of the Second Preparation.</hi> p. 36</item>
+               <item>Chap. III. <hi>Of the White King.</hi> p. 38</item>
+               <item>
+                  <hi>Several Chymical Axioms.</hi> From p. 39. to p. 50</item>
+               <item>
+                  <hi>Of Fermentation.</hi> ibid.</item>
+               <item>
+                  <hi>The Dialogue of <hi>Ariſlaus,</hi> a very ancient Philoſopher, concerning the Philoſophers Stone [a Work never before publiſhed.]</hi> p. 52</item>
+               <item>
+                  <hi>The Poſtcript.</hi> p. 62</item>
+            </list>
+            <trailer>The End of the Index.</trailer>
+         </div>
+         <div type="index_of_diseases">
+            <pb facs="tcp:41668:51"/>
+            <head>An Alphabetical Table of the Diſea<g ref="char:EOLhyphen"/>ſes, <hi>&amp;c.</hi> curable by the Remedies in this Book.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>AGue to cure,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Animal Spirits to comfort,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>
+                     <hi>Anthonies</hi> (St.) Fire to cure,</hi> p. 16. ℞
+20</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>
+                  <hi>Balſom of many wonderful Properties,</hi> p. 1, 2, 3. ℞ 1</item>
+               <item>
+                  <hi>Bones to comfort,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Blemiſhes in the Face to take away,</hi> p. 7. ℞
+8</item>
+               <item>
+                  <hi>Burning <g ref="char:V">Ʋ</g>lcers to cleanſe and heal,</hi> p. 8. ℞
+8</item>
+               <item>
+                  <hi>Boils to drie up,</hi> p. 8. ℞ 8</item>
+               <item>
+                  <hi>Blood-ſhot Eyes to cure,</hi> p. 11. ℞ 14</item>
+               <item>
+                  <hi>Belly an excellent Purger of,</hi> p. 18. ℞ 22</item>
+               <item>
+                  <hi>Brain to extract obnoxious humours from,</hi> p.
+<hi>idem.</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>
+                  <hi>Convulſion Fits to cure,</hi> p. 6. ℞ 6</item>
+               <item>
+                  <hi>Cramp to cure,</hi> p. 6. ℞ 7</item>
+               <item>
+                  <hi>Contraction of the Sinews,</hi> ibid.</item>
+               <item>
+                  <hi>Cankred and Corroſive <g ref="char:V">Ʋ</g>lcers to cure,</hi> p. 11. ℞ 15</item>
+               <item>
+                  <hi>Canker,</hi> p. 13. ℞ 16</item>
+               <pb facs="tcp:41668:51"/>
+               <item>
+                  <hi>Cough to take away the cauſes of,</hi> p. 18. ℞
+23</item>
+               <item>
+                  <hi>
+                     <hi>Catholicum Catharticum,</hi> ſo much esteem<g ref="char:EOLhyphen"/>ed for purging of Bodies with,</hi> p. 19. ℞ 25</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>
+                  <hi>Dyſſentery to cure,</hi> p. 13. ℞ 17</item>
+               <item>
+                  <hi>Deſperate Looſeneſſes to stop,</hi> p. 13. ℞
+17</item>
+               <item>
+                  <hi>Dead Bodies to preſerve,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Decayed Strength to help,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Dilirium to cure,</hi> p. 5. ℞ 4</item>
+               <item>
+                  <hi>Dim Eyes to help,</hi> p. 9. ℞ 10</item>
+               <item>
+                  <hi>Dropſie to cure,</hi> p. 9. ℞ 12</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>
+                  <hi>Eyes enflamed to cure,</hi> p. 8, 9, ℞ 9, 10</item>
+               <item>
+                  <hi>Eyes running and dry,</hi> ibid.</item>
+               <item>
+                  <hi>Eyes Bloodſhot,</hi> ibid.</item>
+               <item>
+                  <hi>Eyelids itching to cure,</hi> ibid.</item>
+               <item>
+                  <hi>Eyes having Skins growing over them to cure,</hi> p. 9. ℞ 10</item>
+               <item>
+                  <hi>Epylipſie,</hi> p. 19. ℞ 26</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>Fevers Hectick to cure,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Frenſie to cure,</hi> p. 5. ℞ 4</item>
+               <item>
+                  <hi>Fooliſhneſs by want of Sleep,</hi> p. 6. ℞
+5</item>
+               <item>
+                  <hi>Fits to cure,</hi> p. 6. ℞ 6</item>
+               <item>
+                  <hi>Face Wrinkles, Blemiſhes or Pimples in,</hi> p. 7. ℞
+8</item>
+               <item>
+                  <hi>Face to make of an incomparable White and Red Colour,</hi> ibid.</item>
+               <item>
+                  <hi>Fistuloes to cure,</hi> p. 10. ℞ 13</item>
+            </list>
+            <list>
+               <pb facs="tcp:41668:52"/>
+               <head>G.</head>
+               <item>
+                  <hi>Gun-ſhot to cure,</hi> p. 3. ℞ 2</item>
+               <item>
+                  <hi>Gravel in the Reins.</hi> p. 17. ℞ 21</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>
+                  <hi>Heart to comfort,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Hectick Fevers to cure,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Heart trembling,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Heart Palpitation,</hi> p. 5. ℞ 4</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>
+                  <hi>Itching Pimples to cure,</hi> p. 7. ℞ 8</item>
+               <item>
+                  <hi>Inflamed Eyes to heal,</hi> p. 8, 9. ℞ 9, 10</item>
+               <item>
+                  <hi>Impoſthumes,</hi> p. 16. ℞ 19</item>
+               <item>
+                  <hi>Inveterate Megrim,</hi> p. 17. ℞ 22</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>
+                  <hi>Long Life to procure,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Looſeneſs to cure,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Lungs, <g ref="char:V">Ʋ</g>lcers thereof to heal,</hi> p. 10. ℞
+12</item>
+               <item>
+                  <hi>Looſeneſs deſperate to prevent,</hi> p. 13. ℞
+17</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>Many Diſeaſes a Receit for,</hi> p. 1. ℞ 1</item>
+               <item>
+                  <hi>Melancholy to expel,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Maladies of all ſorts to cure,</hi> p. 11. ℞
+14</item>
+               <item>
+                  <hi>Mederiff an excellent Purger of,</hi> p. 18. ℞
+22</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Poiſoned Lungs to cure,</hi> p. 10. ℞ 12</item>
+               <item>
+                  <hi>Plague one only excellent Remedy for,</hi> p. 13. ℞
+18</item>
+               <item>
+                  <hi>Pimples itching,</hi> p. 7. ℞ 8</item>
+               <item>
+                  <hi>Pluriſie to cure,</hi> p. 16. ℞ 19</item>
+               <item>
+                  <hi>Palſey to cure,</hi> p. 31. ℞ 1</item>
+               <pb facs="tcp:41668:52"/>
+               <item>
+                  <hi>Palpitation of the Heart,</hi> p. 5. ℞ 4</item>
+               <item>
+                  <hi>Provoke Reſt,</hi> p. 6. ℞ 5.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>
+                  <hi>Quartan Ague to cure,</hi> p. 2. ℞ 1</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>
+                  <hi>Reins to comfort,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Reſt to provoke,</hi> p. 6. ℞ 5</item>
+               <item>
+                  <hi>Running Sores to dry up,</hi> p. 8. ℞ 8</item>
+               <item>
+                  <hi>Running and dry Eyes to cure,</hi> p. 8, 9. ℞ 9,
+10</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>
+                  <hi>Swoundings to help,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Speechleſs, to recover Speech,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Suffocation of the Womb,</hi> p. 2. ℞ 1. &amp; p. 18. ℞ 24.</item>
+               <item>
+                  <hi>Spiritual Substance to comfort,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Swellings to allay,</hi> p. 3. ℞ 2</item>
+               <item>
+                  <hi>Sinews contraction thereof to prevent,</hi> p. 6. ℞
+7</item>
+               <item>
+                  <hi>Sores running to dry up,</hi> p. 8. ℞ 8</item>
+               <item>
+                  <hi>Stinking <g ref="char:V">Ʋ</g>lcers to cure,</hi> p. 10. ℞ 13</item>
+               <item>
+                  <hi>Shingles to cure,</hi> p. 16. ℞ 20</item>
+               <item>
+                  <hi>Saint <hi>Anthonies</hi> Fire,</hi> ibid.</item>
+               <item>
+                  <hi>Stone to expel,</hi> p. 17. ℞ 21</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>Trouble of Mind to expel,</hi> p. 3. ℞ 1</item>
+               <item>
+                  <hi>Trembling of the Heart to cure,</hi> p. 3. ℞ 1</item>
+            </list>
+            <list>
+               <head>U.</head>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcers burning to cleanſe and heal,</hi> p. 8. ℞
+8</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcers of the Lungs to cure,</hi> p. 10. ℞ 12</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcers old and ſtinking,</hi> p. 10. ℞ 13</item>
+               <pb facs="tcp:41668:53"/>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcer, cankred and corroſive to cure,</hi> p. 11. ℞ 15</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcers in the Lights,</hi> p. 18. ℞ 23</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>
+                  <hi>Weak Bodies to ſtrengthen,</hi> p. 2. ℞ 1</item>
+               <item>
+                  <hi>Womb Suffoeations of,</hi> p. 2. ℞ 1. &amp; p. 18. ℞ 24</item>
+               <item>
+                  <hi>Wounds of all ſorts to cure,</hi> p. 3. ℞ 2</item>
+               <item>
+                  <hi>Wounds deſperate of all ſorts to heal, in 24 hours time,</hi> p. 4. ℞ 3</item>
+               <item>
+                  <hi>Wrinkles in the Face,</hi> p. 7. ℞ 8</item>
+               <item>
+                  <hi>Wounds to heal in a ſmall ſpace,</hi> p. 9. ℞
+11</item>
+               <item>
+                  <hi>Wounds to cure,</hi> p. 13. ℞ 16</item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 1. ℞ 1. r. <hi>Aloes Hepat.</hi> p. 4. l. 3. r. <hi>clear The<g ref="char:EOLhyphen"/>rebinthin</hi> 
+               <abbr>lb</abbr>j. p. 9. l. 4. r. <hi>Foeniculi, Eufraſia Celen<g ref="char:EOLhyphen"/>dine.</hi> p. 11. l. 11. r. <hi>Gum Elemus.</hi> p. 15. l. 4. after
+<hi>ab<g ref="char:EOLhyphen"/>ſtaining</hi> r. <hi>from Victuals and Drink.</hi> p. 16. ℞ 19. for
+<hi>Beam-ſomer</hi> r. <hi>Bean-flower.</hi> If any other literal Faults (though really I think there is none of much moment) are eſcaped the ſight, by reaſon of Haſt on both ſides, the Reader is deſired either to correct 'em with his Pen, or caſt a favourable Conſtruction thereon.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:41668:53"/>
+         </div>
+      </back>
+   </text>
+</TEI>
